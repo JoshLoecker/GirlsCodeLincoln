@@ -40,7 +40,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 02: Functions
+
 ### Learning Objectives
+
 - **Understanding Built-in Functions:** Students will be able to identify and use common built-in functions in Python,
   such as print(), input(), and len(),
   and comprehend their basic functionalities.
@@ -61,7 +63,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 03: Lists
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Comma Code
 - Coin Flip Streaks
@@ -70,21 +74,28 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 04: Dictionaries and Structuring Data
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Chess Dictionary Validator
 - Fantasy Game Inventory
 - List to Dictionary Function for Fantasy Game Inventory
 
 ## Lesson 05: Manipulating Strings
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Table Printer
 - Zombie Dice Bots
 
 ---
+
 ## Lesson 05: Pattern Matching with Regular Expressions
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Date Detection
 - Strong Password Detection
@@ -93,7 +104,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 06: Input Validation
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Sandwich Maker
 - Write Your Own Multiplication Quiz
@@ -101,7 +114,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 07: Reading and Writing Files
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Extending the Multi-Clipboard
 - Mad Libs
@@ -110,7 +125,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 08: Organizing Files
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Selective Copy
 - Deleting Unneeded Files
@@ -119,14 +136,18 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 09: Debugging
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Debugging Coin Toss
 
 ---
 
 ## Lesson 10: Web Scraping
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Command Line Emailer
 - Image Site Downloader
@@ -136,7 +157,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 11: Working with Excel Spreadsheets
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Multiplication Table Maker
 - Blank Row Inserter
@@ -147,7 +170,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 12: Working with Google Sheets
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Downloading Google Forms Data
 - Converting Spreadsheets to Other Formats
@@ -156,7 +181,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 13: Working with Pdf and Word Documents
+
 ### Learning Objectives
+
 ### Weekly Projects
 - PDF Paranoia
 - Custom Invitations as Word Documents
@@ -165,14 +192,18 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 14: Working with CSV Files and JSON Data
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Excel-to-CSV Converter
 
 ---
 
 ## Lesson 15: Keeping Time, Scheduling Tasks, and Launching Programs
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Prettified Stopwatch
 - Scheduled Web Comic Downloader
@@ -180,7 +211,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 16: Sending Email and Text Messages
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Random Chore Assignment Emailer
 - Umbrella Reminder
@@ -190,7 +223,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 17: Manipulating Images
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Extending and Fixing the Chapter Project Programs
 - Identifying Photo Folders on the Hard Drive
@@ -199,7 +234,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ---
 
 ## Lesson 18: Controlling The Keyboard and Mouse with GUI Automation
+
 ### Learning Objectives
+
 ### Weekly Projects
 - Looking Busy
 - Using the Clipboard to Read a Text Field
