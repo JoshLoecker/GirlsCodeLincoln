@@ -1,0 +1,13 @@
+# Simply execute this file to see the output of the print statements
+
+print((5 > 4) and (3 == 5))
+
+print(not (5 > 4))
+
+print((5 > 4) or (3 == 5))
+
+print(not ((5 > 4) or (3 == 5)))
+
+print((True and True) and (True == False))
+
+print((not False) or (not True))
