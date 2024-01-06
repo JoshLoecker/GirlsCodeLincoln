@@ -24,6 +24,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 [GitHub Repo Link](https://github.com/JoshLoecker/GirlsCodeLincoln/tree/master/Spring%202024/Lesson%2001%20-%20Control%20Flow)
 
 ### Learning Objectives
+
 - **Understand Fundamental Flow Control Concepts:** Understand basic concepts of flow control, including Boolean values,
   comparison operators, and Boolean operators.
   Be able to write expressions using these concepts and evaluate their truth value.
