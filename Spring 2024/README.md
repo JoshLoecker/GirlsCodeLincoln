@@ -1,80 +1,197 @@
-**<p style="text-align: center;">Python Programming for Automation</p>**
-<p style="text-align: center;">Josh Loecker - Spring 2024</p>
+# Python Programming for Automation
 
-**Objective:** The semester-long course aims to introduce middle school students to the world of programming through
-Python. Emphasizing hands-on group work, problem-solving using online resources, and culminating in ~1 project per week,
-the curriculum is designed to make learning Python engaging and applicable. Throughout this course, I would love for
-groups to be able to work at their own pace, asking for help from volunteers as they get stuck. I’m hoping this will
-limit the amount of “boredom” from students more proficient at programming and less stress/frustration from those who
-need more help. The timeline listed below is a general guideline, and does not need to be followed exactly.
+Written for the Spring 2024 semester by Josh Loecker
 
-**Weeks 1-2:** Control Flow
+# Objective
+
+[Semester's Google Drive Folder](https://drive.google.com/drive/folders/1cDAKYNv1yJ8sKbn1HnCjVv3fdUEZa4JP?usp=sharing)
+
+This semester will (more or less) follow the amazing book ["Automate the Boring Stuff with Python"](https://automatetheboringstuff.com/) by Al Sweigart
+
+Each chapter will be covered in 1-2 weeks, in a work-at-your-own-pace style. The goal is to use the book as a guide for learning the programming concepts required for that week's project
+
+This file is a table of contents for the semester. Each week will have a link to the Google Slides presentation, a link to the GitHub repo for that week's project, and a list of the learning objectives for that week.
+
+---
+
+## Lesson 01: Control Flow
 
 [Google Slides Link](https://docs.google.com/presentation/d/107A5EaseG4CJ8u-WYYzv9BwloNFcO5I8ZIZdcKmb5ts/edit?usp=sharing)<br>
 
-**Learning Objectives:**
+[GitHub Repo Link](https://github.com/JoshLoecker/GirlsCodeLincoln/tree/master/Spring%202024/Lesson%2001%20-%20Control%20Flow)
 
-- Understand the concept of control flow in programming.
-- Learn how to use if statements, loops, and functions in Python.
-- Apply control flow concepts to create a rock/paper/scissors game.
+### Learning Objectives
+- **Understand Fundamental Flow Control Concepts:
+  ** Understand basic concepts of flow control, including Boolean values, comparison operators, and Boolean operators. Be able to write expressions using these concepts and evaluate their truth value.
+- **Exploring Control Flow Statements:
+  ** Explain the structure and function of `if`, `else`, `elif`, `while`, `for`, `break`, and `continue` statements for controlling program flow. Use these statements appropriately in code examples.
+- **Implementing Control Flow in Game Development:** Apply control flow concepts to create a rock/paper/scissors game.
 
-**General Program Guide:**
+### Weekly Projects
+- [Explore Boolean Expressions](./Lesson%2001%20-%20Control%20Flow/explore_boolean_expressions.py)
+- [Rock/Paper/Scissors](./Lesson%2001%20-%20Control%20Flow/rock_paper_scissors.py)
 
-- The computer will make a random choice (rock/paper/scissors).
-- The programmer will code each possible outcome.
-- The possible outcomes are:
+---
 
-<div align="center">
+## Lesson 02: Functions
+### Learning Objectives
+- **Understanding Built-in Functions:
+  ** Students will be able to identify and use common built-in functions in Python, such as print(), input(), and len(), and comprehend their basic functionalities.
+- **Creating Custom Functions:
+  ** Participants will gain the ability to write their own functions in Python, recognizing functions as a means of compartmentalizing code into logical groups, and understand the concept of local scopes within functions.
+- **Organizing Code with Functions:
+  ** Learners will appreciate the role of functions in organizing code, viewing them as black boxes with inputs (parameters) and outputs (return values), and realizing how functions contribute to code modularity.
+- **Enhancing Code Resilience with try and except Statements:
+  ** Students will be able to describe and implement try and except statements in Python, understanding their role in handling errors and making programs more robust by allowing code execution even in the presence of detected errors.
 
-| User Chooses | Computer Chooses |   Result   |
-|:------------:|:----------------:|:----------:|
-|     Rock     |       Rock       |    Tie     |
-|     Rock     |      Paper       | User Loses |
-|     Rock     |     Scissors     | User Wins  |
-|    Paper     |       Rock       | User Wins  |
-|    Paper     |      Paper       |    Tie     |
-|    Paper     |     Scissors     | User Loses |
-|   Scissors   |       Rock       | User Loses |
-|   Scissors   |      Paper       | User Wins  |
-|   Scissors   |     Scissors     |    Tie     |
+### Weekly Projects
+- The Collatz Sequence
+- Input Validation
 
-</div>
+---
 
-Weeks 3-4: Automating Tasks with Python
-Control Flow in Python: Introduction to if statements, loops, and functions for task automation.
-Practical Group Activity: Applying control flow concepts to automate simple, repetitive tasks.
-Reflection and Discussion: Analyzing different group approaches and strategies.
+## Lesson 03: Lists
+### Learning Objectives
+### Weekly Projects
+- Comma Code
+- Coin Flip Streaks
+- Character Picture Grid
 
-Weeks 5-6: Introduction to Web Scraping and Small Project Kick-off
-Web Scraping Fundamentals: Understanding the basics of web scraping and its applications.
-Hands-on Group Activity: Assigning a small web scraping task, encouraging the use of online resources for
-problem-solving.
-Project Kick-off: Introducing the final project, where groups choose tasks for automation using Python.
+---
 
-Weeks 7-10: Project Development and Problem-Solving
-Project Work: Groups continue developing their automation projects with guidance.
-Instructor Support: Providing assistance as needed, emphasizing the use of online resources for problem-solving.
-Q&A Sessions: Encouraging questions, clarifications, and peer-to-peer support.
+## Lesson 04: Dictionaries and Structuring Data
+### Learning Objectives
+### Weekly Projects
+- Chess Dictionary Validator
+- Fantasy Game Inventory
+- List to Dictionary Function for Fantasy Game Inventory
 
-Weeks 11-12: Final Project Completion and Showcase
-Final Project Work: Dedicated time for groups to polish and complete their automation projects.
-Project Showcase: Each group presents their projects to the class, discussing challenges, solutions, and lessons
-learned.
-Reflection and Feedback: Encouraging students to reflect on their learning journey and receive constructive feedback.
+## Lesson 05: Manipulating Strings
+### Learning Objectives
+### Weekly Projects
+- Table Printer
+- Zombie Dice Bots
 
-Assessment Criteria:
-Individual and Group Participation: Active engagement in group activities and discussions.
-Problem-Solving Skills: Ability to use online resources, particularly Google, to overcome programming challenges.
-Final Project: Evaluation based on creativity, functionality, and successful implementation of automation concepts.
-Key Takeaways:
-Teamwork: Emphasizing the importance of collaboration and mutual support in programming.
-Problem-Solving: Instilling confidence in using online resources to tackle programming challenges.
-Real-world Application: Connecting Python programming to practical, everyday tasks through automation.
+---
+## Lesson 05: Pattern Matching with Regular Expressions
+### Learning Objectives
+### Weekly Projects
+- Date Detection
+- Strong Password Detection
+- Regex Version of the `strip()` Method
 
-This semester aims to provide a foundation for future exploration of programming concepts, fostering a positive and
-collaborative learning environment for middle school students.
+---
 
+## Lesson 06: Input Validation
+### Learning Objectives
+### Weekly Projects
+- Sandwich Maker
+- Write Your Own Multiplication Quiz
 
+---
 
+## Lesson 07: Reading and Writing Files
+### Learning Objectives
+### Weekly Projects
+- Extending the Multi-Clipboard
+- Mad Libs
+- Regex Search
 
+---
 
+## Lesson 08: Organizing Files
+### Learning Objectives
+### Weekly Projects
+- Selective Copy
+- Deleting Unneeded Files
+- Filling in the Gaps
+
+---
+
+## Lesson 09: Debugging
+### Learning Objectives
+### Weekly Projects
+- Debugging Coin Toss
+
+---
+
+## Lesson 10: Web Scraping
+### Learning Objectives
+### Weekly Projects
+- Command Line Emailer
+- Image Site Downloader
+- 2048
+- Link Verification
+
+---
+
+## Lesson 11: Working with Excel Spreadsheets
+### Learning Objectives
+### Weekly Projects
+- Multiplication Table Maker
+- Blank Row Inserter
+- Spreadsheet Cell Inverter
+- Text Files to Spreadsheet
+- Spreadsheet to Text Files
+
+---
+
+## Lesson 12: Working with Google Sheets
+### Learning Objectives
+### Weekly Projects
+- Downloading Google Forms Data
+- Converting Spreadsheets to Other Formats
+- Finding Mistakes in a Spreadsheet
+
+---
+
+## Lesson 13: Working with Pdf and Word Documents
+### Learning Objectives
+### Weekly Projects
+- PDF Paranoia
+- Custom Invitations as Word Documents
+- Brute-Force PDF Password Breaker
+
+---
+
+## Lesson 14: Working with CSV Files and JSON Data
+### Learning Objectives
+### Weekly Projects
+- Excel-to-CSV Converter
+
+---
+
+## Lesson 15: Keeping Time, Scheduling Tasks, and Launching Programs
+### Learning Objectives
+### Weekly Projects
+- Prettified Stopwatch
+- Scheduled Web Comic Downloader
+
+---
+
+## Lesson 16: Sending Email and Text Messages
+### Learning Objectives
+### Weekly Projects
+- Random Chore Assignment Emailer
+- Umbrella Reminder
+- Auto Unsubscriber
+- Controlling Your Computer Through Email
+
+---
+
+## Lesson 17: Manipulating Images
+### Learning Objectives
+### Weekly Projects
+- Extending and Fixing the Chapter Project Programs
+- Identifying Photo Folders on the Hard Drive
+- Custom Seating Cards
+
+---
+
+## Lesson 18: Controlling The Keyboard and Mouse with GUI Automation
+### Learning Objectives
+### Weekly Projects
+- Looking Busy
+- Using the Clipboard to Read a Text Field
+- Instant Messenger Bot
+- Game-Playing Bot Tutorial
