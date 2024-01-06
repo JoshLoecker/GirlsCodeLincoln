@@ -6,11 +6,14 @@ Written for the Spring 2024 semester by Josh Loecker
 
 [Semester's Google Drive Folder](https://drive.google.com/drive/folders/1cDAKYNv1yJ8sKbn1HnCjVv3fdUEZa4JP?usp=sharing)
 
-This semester will (more or less) follow the amazing book ["Automate the Boring Stuff with Python"](https://automatetheboringstuff.com/) by Al Sweigart
+This semester will (more or less) follow the amazing
+book ["Automate the Boring Stuff with Python"](https://automatetheboringstuff.com/) by Al Sweigart
 
-Each chapter will be covered in 1-2 weeks, in a work-at-your-own-pace style. The goal is to use the book as a guide for learning the programming concepts required for that week's project
+Each chapter will be covered in 1-2 weeks, in a work-at-your-own-pace style. The goal is to use the book as a guide for
+learning the programming concepts required for that week's project
 
-This file is a table of contents for the semester. Each week will have a link to the Google Slides presentation, a link to the GitHub repo for that week's project, and a list of the learning objectives for that week.
+This file is a table of contents for the semester. Each week will have a link to the Google Slides presentation, a link
+to the GitHub repo for that week's project, and a list of the learning objectives for that week.
 
 ---
 
@@ -21,10 +24,12 @@ This file is a table of contents for the semester. Each week will have a link to
 [GitHub Repo Link](https://github.com/JoshLoecker/GirlsCodeLincoln/tree/master/Spring%202024/Lesson%2001%20-%20Control%20Flow)
 
 ### Learning Objectives
-- **Understand Fundamental Flow Control Concepts:
-  ** Understand basic concepts of flow control, including Boolean values, comparison operators, and Boolean operators. Be able to write expressions using these concepts and evaluate their truth value.
-- **Exploring Control Flow Statements:
-  ** Explain the structure and function of `if`, `else`, `elif`, `while`, `for`, `break`, and `continue` statements for controlling program flow. Use these statements appropriately in code examples.
+- **Understand Fundamental Flow Control Concepts:** Understand basic concepts of flow control, including Boolean values,
+  comparison operators, and Boolean operators.
+  Be able to write expressions using these concepts and evaluate their truth value.
+- **Exploring Control Flow Statements:** Explain the structure and function
+  of `if`, `else`, `elif`, `while`, `for`, `break`, and `continue` statements for
+  controlling program flow. Use these statements appropriately in code examples.
 - **Implementing Control Flow in Game Development:** Apply control flow concepts to create a rock/paper/scissors game.
 
 ### Weekly Projects
@@ -35,14 +40,18 @@ This file is a table of contents for the semester. Each week will have a link to
 
 ## Lesson 02: Functions
 ### Learning Objectives
-- **Understanding Built-in Functions:
-  ** Students will be able to identify and use common built-in functions in Python, such as print(), input(), and len(), and comprehend their basic functionalities.
-- **Creating Custom Functions:
-  ** Participants will gain the ability to write their own functions in Python, recognizing functions as a means of compartmentalizing code into logical groups, and understand the concept of local scopes within functions.
-- **Organizing Code with Functions:
-  ** Learners will appreciate the role of functions in organizing code, viewing them as black boxes with inputs (parameters) and outputs (return values), and realizing how functions contribute to code modularity.
-- **Enhancing Code Resilience with try and except Statements:
-  ** Students will be able to describe and implement try and except statements in Python, understanding their role in handling errors and making programs more robust by allowing code execution even in the presence of detected errors.
+- **Understanding Built-in Functions:** Students will be able to identify and use common built-in functions in Python,
+  such as print(), input(), and len(),
+  and comprehend their basic functionalities.
+- **Creating Custom Functions:** Participants will gain the ability to write their own functions in Python, recognizing
+  functions as a means of
+  compartmentalizing code into logical groups, and understand the concept of local scopes within functions.
+- **Organizing Code with Functions:** Learners will appreciate the role of functions in organizing code, viewing them as
+  black boxes with inputs (
+  parameters) and outputs (return values), and realizing how functions contribute to code modularity.
+- **Enhancing Code Resilience with try and except Statements:** Students will be able to describe and implement try and
+  except statements in Python, understanding their role in
+  handling errors and making programs more robust by allowing code execution even in the presence of detected errors.
 
 ### Weekly Projects
 - The Collatz Sequence
