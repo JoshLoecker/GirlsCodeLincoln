@@ -41,9 +41,14 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ## Lesson 1 - Control Flow
 
-[Google Slides Link](https://docs.google.com/presentation/d/107A5EaseG4CJ8u-WYYzv9BwloNFcO5I8ZIZdcKmb5ts/edit?usp=sharing)<br>
+[Detailed Lesson Plan](./Lesson%2001%20-%20Flow%20Control)
 
-[GitHub Repo Link](https://github.com/JoshLoecker/GirlsCodeLincoln/tree/master/Spring%202024/Lesson%2001%20-%20Control%20Flow)
+### Lesson Summary
+
+This lesson will introduce the concept of control flow in programming. Students will learn about Boolean values and
+expressions, comparison operators, Boolean operators, and flow control statements. Students will also learn about the
+importance of flow control in programming and how it can be used to create more complex programs. Finally, students will
+learn about the importance of flow control in game development and how to use it to create a rock/paper/scissors game.
 
 ### Learning Objectives
 
@@ -55,13 +60,18 @@ to the GitHub repo for that week's project, and a list of the learning objective
   controlling program flow. Use these statements appropriately in code examples.
 - **Implementing Control Flow in Game Development:** Apply control flow concepts to create a rock/paper/scissors game.
 
-### Weekly Projects
-- [Explore Boolean Expressions](./Lesson%2001%20-%20Flow%20Control/explore_boolean_expressions.py)
-- [Rock/Paper/Scissors](./Lesson%2001%20-%20Flow%20Control/rock_paper_scissors.py)
-
 ---
 
 ## Lesson 2 - Functions
+
+[Detailed Lesson Plan](./Lesson%2002%20-%20Functions)
+
+### Lesson Summary
+
+This lesson will introduce the concept of functions in programming. Students will learn about built-in functions and how
+to create their own custom functions. Students will also learn about the importance of functions in organizing code and
+making it more resilient. Finally, students will learn about the importance of error handling in programming and how to
+use try and except statements to make their programs more robust.
 
 ### Learning Objectives
 
@@ -78,13 +88,18 @@ to the GitHub repo for that week's project, and a list of the learning objective
   except statements in Python, understanding their role in
   handling errors and making programs more robust by allowing code execution even in the presence of detected errors.
 
-### Weekly Projects
-- [The Collatz Sequence](./Lesson%2002%20-%20Functions/the_collatz_sequence.py)
-- [Input Validation](./Lesson%2002%20-%20Functions/input_validation.py)
-
 ---
 
 ## Lesson 3 - Lists
+
+[Detailed Lesson Plan](./Lesson%2003%20-%20Lists)
+
+### Lesson Summary
+
+This lesson will introduce the concept of lists in programming. Students will learn about the syntax for creating lists
+and how to use common list methods, such as `append()` and `remove()`. Students will also learn about the differences
+between mutable and immutable sequence data types and how to use `copy()` and `deepcopy()` for managing list changes
+without affecting other variables.
 
 ### Learning Objectives
 - **Understand the Basics of Lists:** Define lists in programming as ordered sequences. Recognize the syntax for
@@ -94,16 +109,21 @@ to the GitHub repo for that week's project, and a list of the learning objective
 - **Compare Sequence Data Types:** Differentiate mutable and immutable sequence data types. Compare lists, tuples, and
   strings, highlighting their unique characteristics and use cases.
 - **Grasp the Importance of List References:** Explain that variables store references, not list values directly.
-  Introduce the use of copy() and deepcopy() for managing list changes without affecting other variables.
-
-### Weekly Projects
-- [Comma Code](./Lesson%2003%20-%20Lists/comma_code.py)
-- [Coin Flip Streaks](./Lesson%2003%20-%20Lists/coin_flip_streaks.py)
-- [Character Picture Grid](./Lesson%2003%20-%20Lists/character_picture_grid.py)
+  Introduce the use of `copy()` and `deepcopy()` for managing list changes without affecting other variables.
 
 ---
 
 ## Lesson 4 - Dictionaries and Structuring Data
+
+[Detailed Lesson Plan](./Lesson%2004%20-%20Dictionaries%20and%20Structuring%20Data)
+
+### Lesson Summary
+
+This lesson will introduce the concept of dictionaries in programming. Students will learn about the syntax for creating
+dictionaries and how to use common dictionary methods, such as `keys()`, `values()`, and `items()`. Students will also
+learn about the differences between lists and dictionaries and how to use a combination of the two for modeling
+real-world objects. Finally, students will learn about the importance of data validation in programming and how to use
+if statements to ensure that user inputs are valid
 
 ### Learning Objectives
 - **Master the Dictionary Data Type:** Define the dictionary data type and its role in organizing and accessing data.
@@ -119,12 +139,17 @@ to the GitHub repo for that week's project, and a list of the learning objective
   structure for modeling a tic-tac-toe board. Understand the advantages of using a combination of dictionaries and lists
   for organizing complex game-related data.
 
-### Weekly Projects
-- [Chess Dictionary Validator](./Lesson%2004%20-%20Dictionaries%20and%20Structuring%20Data/chess_dictionary_validator.py)
-- [Fantasy Game Inventory](./Lesson%2004%20-%20Dictionaries%20and%20Structuring%20Data/fantasy_game_inventory.py)
-- [List to Dictionary Function for Fantasy Game Inventory](./Lesson%2004%20-%20Dictionaries%20and%20Structuring%20Data/list_to_dictionary_function_for_fantasy_game_inventory.py)
-
 ## Lesson 5 - Manipulating Strings
+
+[Detailed Lesson Plan](./Lesson%2005%20-%20Manipulating%20Strings)
+
+### Lesson Summary
+
+This lesson will introduce the concept of strings in programming. Students will learn about the syntax for creating
+strings and how to use common string methods, such as `upper()`, `lower()`, and `isupper()`. Students will also learn
+about the differences between string and list data types and how to use slicing to extract substrings from strings.
+Finally, students will learn about the importance of input validation in programming and how to use regular expressions
+to ensure that user inputs are valid.
 
 ### Learning Objectives
 - **Explore Advanced String Manipulation:** Learn techniques beyond simple string concatenation, including extracting
@@ -137,10 +162,6 @@ to the GitHub repo for that week's project, and a list of the learning objective
 - **Understand the Power of Text-Based Programs:** Recognize the effectiveness of text-based programs in manipulating
   large amounts of data quickly. Explore the advantages of working with text-based programs for tasks that may not
   involve graphical user interfaces or flashy visuals.
-
-### Weekly Projects
-- [Table Printer](./Lesson%2005%20-%20Manipulating%20Strings/table_printer.py)
-- [Zombie Dice Bots](./Lesson%2005%20-%20Manipulating%20Strings/zombie_dice_bots.py)
 
 ---
 
@@ -159,14 +180,18 @@ to the GitHub repo for that week's project, and a list of the learning objective
   substitution and creating custom character classes. Apply regular expressions to perform complex text processing tasks
   efficiently.
 
-### Weekly Projects
-- [Date Detection](./Lesson%2006%20-%20Pattern%20Matching%20with%20Regular%20Expressions/date_detection.py)
-- [Strong Password Detection](./Lesson%2006%20-%20Pattern%20Matching%20with%20Regular%20Expressions/strong_password_detection.py)
-- [Regex Version of the `strip()` Method](./Lesson%2006%20-%20Pattern%20Matching%20with%20Regular%20Expressions/regex_version_of_the_strip_method.py)
-
 ---
 
 ## Lesson 7 - Input Validation
+
+[Detailed Lesson Plan](./Lesson%2007%20-%20Input%20Validation)
+
+# Lesson Summary
+
+This lesson will introduce the concept of input validation in programming. Students will learn about the importance of
+input validation in preventing nonsensical or incorrect user inputs. Students will also learn how to implement basic
+input validation code using a while loop. Finally, students will learn about the challenges of manual input validation
+and how to use try and except statements to make their programs more robust.
 
 ### Learning Objectives
 - **Understanding the Importance of Input Validation:** Recognize the significance of input validation in preventing
@@ -179,13 +204,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   implementing input validation for every input() call in a program. Understand the limitations and the risk of
   overlooking certain cases in manual input validation.
 
-### Weekly Projects
-- [Sandwich Maker](./Lesson%2007%20-%20Input%20Validation/sandwich_maker.py)
-- [Write Your Own Multiplication Quiz](./Lesson%2007%20-%20Input%20Validation/write_your_own_multiplication_quiz.py)
-
 ---
 
 ## Lesson 8 - Reading and Writing Files
+
+[Detailed Lesson Plan](./Lesson%2008%20-%20Reading%20and%20Writing%20Files)
+
+### Lesson Summary
+
+This lesson will introduce the concept of file handling in programming. Students will learn about the syntax for opening
+and reading files and how to use common file methods, such as `read()` and `readlines()`. Students will also learn about
+the differences between plaintext and binary files and how to use the `write()` and `append()` methods to write to
+files. Finally, students will learn about the importance of file organization in programming and how to use the `os`
+module to automate file copying, renaming, moving, and compressing.
 
 ### Learning Objectives
 - **Understanding File Organization:** Recognize the organizational structure of files into folders or directories.
@@ -199,14 +230,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   creating new text files or adding to existing ones. Understand how to write and append data to text files
   programmatically.
 
-### Weekly Projects
-- [Extending the Multi-Clipboard](./Lesson%2008%20-%20Reading%20and%20Writing%20Files/extending_the_multi_clipboard.py)
-- [Mad Libs](./Lesson%2008%20-%20Reading%20and%20Writing%20Files/mad_libs.py)
-- [Regex Search](./Lesson%2008%20-%20Reading%20and%20Writing%20Files/regex_search.py)
-
 ---
 
 ## Lesson 9 - Organizing Files
+
+[Detailed Lesson Plan](./Lesson%2009%20-%20Organizing%20Files)
+
+### Lesson Summary
+
+This lesson will introduce the concept of file organization in programming. Students will learn about the importance of
+automating file organization tasks and how to use the `shutil` module to automate file copying, renaming, moving, and
+compressing. Students will also learn about the importance of file extensions in identifying file types and how to view
+file extensions on different operating systems and file browsers. Finally, students will learn about the importance of
+writing robust file handling code and how to use the `logging` module to log error messages to a file.
 
 ### Learning Objectives
 - **Automating File Organization:** Understand the benefits of automating file organization tasks in Python. Recognize
@@ -223,14 +259,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   debugging is a crucial part of the programming process. Anticipate the next chapter's focus on Python modules that aid
   in code analysis and debugging for improving program correctness.
 
-### Weekly Projects
-- [Selective Copy](./Lesson%2009%20-%20Organizing%20Files/selective_copy.py)
-- [Deleting Unneeded Files](./Lesson%2009%20-%20Organizing%20Files/deleting_unneeded_files.py)
-- [Filling in the Gaps](./Lesson%2009%20-%20Organizing%20Files/filling_in_the_gaps.py)
-
 ---
 
 ## Lesson 10 - Debugging
+
+[Detailed Lesson Plan](./Lesson%2010%20-%20Debugging)
+
+### Lesson Summary
+
+This lesson will introduce the concept of debugging in programming. Students will learn about the importance of
+debugging in preventing bugs and how to use the `logging` module to log error messages to a file. Students will also
+learn about the importance of assertions in preventing bugs and how to use the `assert` statement to check for
+conditions. Finally, students will learn about the importance of exceptions in preventing bugs and how to use the
+`try` and `except` statements to handle exceptions.
 
 ### Learning Objectives
 - **Understanding the Prevalence of Bugs in Programming:** Recognize that writing code and debugging are integral parts
@@ -245,12 +286,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   logging in the context of bug detection and prevention. Learn when to use each tool based on the nature of the error
   and the program's recovery possibilities.
 
-### Weekly Projects
-- [Debugging Coin Toss](./Lesson%2010%20-%20Debugging/debugging_coin_toss.py)
-
 ---
 
 ## Lesson 11 - Web  Scraping
+
+[Detailed Lesson Plan](./Lesson%2011%20-%20Web%20Scraping)
+
+### Lesson Summary
+
+This lesson will introduce the concept of web scraping in programming. Students will learn about the importance of web
+scraping in automating web-based tasks and how to use the `webbrowser` module to open web pages. Students will also
+learn about the importance of web requests in downloading web pages and how to use the `requests` module to download web
+pages. Finally, students will learn about the importance of HTML parsing in extracting information from web pages and
+how to use the `BeautifulSoup` module to parse HTML.
 
 ### Learning Objectives
 - **Recognizing the Significance of Web Scraping:** Understand the importance of web scraping in programming, especially
@@ -265,15 +313,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   concepts and selectors. Understand the role of the selenium module in fully automating web-based tasks, including
   logging in to websites and filling out forms automatically.
 
-### Weekly Projects
-- [Command Line Emailer](./Lesson%2011%20-%20Web%20Scraping/command_line_emailer.py)
-- [Image Site Downloader](./Lesson%2011%20-%20Web%20Scraping/image_site_downloader.py)
-- [2048](./Lesson%2011%20-%20Web%20Scraping/2048.py)
-- [Link Verification](./Lesson%2011%20-%20Web%20Scraping/link_verification.py)
-
 ---
 
 ## Lesson 12 - Working with Excel Spreadsheets
+
+[Detailed Lesson Plan](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets)
+
+### Lesson Summary
+
+This lesson will introduce the concept of spreadsheets in programming. Students will learn about the importance of
+spreadsheets in organizing data and how to use the `openpyxl` module to read and write to spreadsheets. Students will
+also learn about the importance of spreadsheet automation in programming and how to use the `openpyxl` module to
+automate spreadsheet tasks. Finally, students will learn about the importance of spreadsheet handling in programming and
+how to use the `openpyxl` module to handle spreadsheets.
 
 ### Learning Objectives
 - **Understanding the Challenges in Data Processing:** Recognize that the difficulty in processing information often
@@ -287,16 +339,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   spreadsheets. Recognize the efficiency gains achieved by using Python to perform repetitive and mindless spreadsheet
   tasks.
 
-### Weekly Projects
-- [Multiplication Table Maker](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/multiplication_table_maker.py)
-- [Blank Row Inserter](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/blank_row_inserter.py)
-- [Spreadsheet Cell Inverter](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/spreadsheet_cell_inverter.py)
-- [Text Files to Spreadsheet](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/text_files_to_spreadsheet.py)
-- [Spreadsheet to Text Files](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/spreadsheet_to_text_files.py)
-
 ---
 
 ## Lesson 13 - Working with Google Spreadsheets
+
+[Detailed Lesson Plan](./Lesson%2013%20-%20Working%20with%20Google%20Spreadsheets)
+
+### Lesson Summary
+
+This lesson will introduce the concept of spreadsheets in programming. Students will learn about the importance of
+spreadsheets in organizing data and how to use the `ezgmail` module to read and write to spreadsheets. Students will
+also learn about the importance of spreadsheet automation in programming and how to use the `ezgmail` module to automate
+spreadsheet tasks. Finally, students will learn about the importance of spreadsheet handling in programming and how to
+use the `ezgmail` module to handle spreadsheets.
 
 ### Learning Objectives
 - **Recognizing the Role of Spreadsheets in Data Organization:** Understand that spreadsheets serve as essential tools
@@ -309,14 +364,20 @@ to the GitHub repo for that week's project, and a list of the learning objective
   mindless and repetitive spreadsheet tasks, leading to increased efficiency. Understand how Python, equipped with the
   openpyxl module, can handle even the most extensive spreadsheets with ease.
 
-### Weekly Projects
-- [Downloading Google Forms Data](./Lesson%2013%20-%20Working%20with%20Google%20Spreadsheets/downloading_google_forms_data.py)
-- [Converting Spreadsheets to Other Formats](./Lesson%2013%20-%20Working%20with%20Google%20Spreadsheets/converting_spreadsheets_to_other_formats.py)
-- [Finding Mistakes in a Spreadsheet](./Lesson%2013%20-%20Working%20with%20Google%20Spreadsheets/finding_mistakes_in_a_spreadsheet.py)
-
 ---
 
 ## Lesson 14 - Working with PDF and Word Documents
+
+[Detailed Lesson Plan](./Lesson%2014%20-%20Working%20with%20PDF%20and%20Word%20Documents)
+
+### Lesson Summary
+
+This lesson will introduce the concept of PDF and Word documents in programming. Students will learn about the
+importance of PDF and Word documents in organizing data and how to use the `PyPDF2` and `python-docx` modules to read
+and write to PDF and Word documents. Students will also learn about the importance of PDF and Word document automation
+in programming and how to use the `PyPDF2` and `python-docx` modules to automate PDF and Word document tasks. Finally,
+students will learn about the importance of PDF and Word document handling in programming and how to use the `PyPDF2`
+and `python-docx` modules to handle PDF and Word documents.
 
 ### Learning Objectives
 - **Exploring Python Modules for PDF and Word Interaction:** Learn about Python modules, PyPDF2, and python-docx,
@@ -329,14 +390,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   with additional complexity compared to plaintext files. Understand that these files store not only text but also font,
   color, and layout information, requiring specialized handling in Python.
 
-### Weekly Projects
-- [PDF Paranoia](./Lesson%2014%20-%20Working%20with%20PDF%20and%20Word%20Documents/pdf_paranoia.py)
-- [Custom Invitations as Word Documents](./Lesson%2014%20-%20Working%20with%20PDF%20and%20Word%20Documents/custom_invitations_as_word_documents.py)
-- [Brute-Force PDF Password Breaker](./Lesson%2014%20-%20Working%20with%20PDF%20and%20Word%20Documents/brute_force_pdf_password_breaker.py)
-
 ---
 
 ## Lesson 15 - Working with CSV Files and JSON Data
+
+[Detailed Lesson Plan](./Lesson%2015%20-%20Working%20with%20CSV%20Files%20and%20JSON%20Data)
+
+### Lesson Summary
+
+This lesson will introduce the concept of CSV and JSON data in programming. Students will learn about the importance of
+CSV and JSON data in organizing data and how to use the `csv` and `json` modules to read and write to CSV and JSON
+files. Students will also learn about the importance of CSV and JSON data automation in programming and how to use the
+`csv` and `json` modules to automate CSV and JSON data tasks. Finally, students will learn about the importance of CSV
+and JSON data handling in programming and how to use the `csv` and `json` modules to handle CSV and JSON data.
 
 ### Learning Objectives
 - **Understanding CSV and JSON as Plaintext File Formats:** Recognize CSV as an acronym for "comma-separated values" and
@@ -350,12 +416,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   formats for storing data, facilitating easy parsing by programs while remaining human-readable. Acknowledge the role
   of the csv and json modules in Python in simplifying the handling of data stored in CSV and JSON file formats.
 
-### Weekly Projects
-- [Excel-to-CSV Converter](./Lesson%2015%20-%20Working%20with%20CSV%20Files%20and%20JSON%20Data/excel_to_csv_converter.py)
-
 ---
 
 ## Lesson 16 - Keeping Time, Scheduling Tasks, and Launching Programs
+
+[Detailed Lesson Plan](./Lesson%2016%20-%20Keeping%20Time,%20Scheduling%20Tasks,%20and%20Launching%20Programs)
+
+### Lesson Summary
+
+This lesson will introduce the concept of time in programming. Students will learn about the importance of time in
+scheduling tasks and how to use the `time` and `datetime` modules to keep track of time. Students will also learn about
+the importance of time in scheduling tasks and how to use the `time` and `datetime` modules to schedule tasks. Finally,
+students will learn about the importance of time in scheduling tasks and how to use the `time` and `datetime` modules to
+launch programs.
 
 ### Learning Objectives
 - **Scheduling and Automation with Time Modules:** Understand the role of Python's time and datetime modules in
@@ -368,13 +441,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   for concurrent execution of tasks, such as downloading multiple files simultaneously. Understand the importance of
   ensuring threads read and write only local variables to avoid potential concurrency issues.
 
-### Weekly Projects
-- [Prettified Stopwatch](./Lesson%2016%20-%20Keeping%20Time%2C%20Scheduling%20Tasks%2C%20and%20Launching%20Programs/prettified_stopwatch.py)
-- [Scheduled Web Comic Downloader](./Lesson%2016%20-%20Keeping%20Time%2C%20Scheduling%20Tasks%2C%20and%20Launching%20Programs/scheduled_web_comic_downloader.py)
-
 ---
 
 ## Lesson 17 - Sending Email and Text Messages
+
+[Detailed Lesson Plan](./Lesson%2017%20-%20Sending%20Email%20and%20Text%20Messages)
+
+### Lesson Summary
+
+This lesson will introduce the concept of email and text messages in programming. Students will learn about the
+importance of email and text messages in automating communication and how to use the `ezgmail` module to send and read
+emails. Students will also learn about the importance of email and text messages in automating communication and how to
+use the `ezgmail` module to send and read emails. Finally, students will learn about the importance of email and text
+messages in automating communication and how to use the `ezgmail` module to send and read emails.
 
 ### Learning Objectives
 - **Email Automation Proficiency:** Gain a comprehensive understanding of the EZGmail module for sending and reading
@@ -395,15 +474,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   that exchange information via email. Develop skills in searching for, downloading, and parsing emails to extract
   relevant information, expanding the capabilities of Python programs beyond individual systems.
 
-### Weekly Projects
-- [Random Chore Assignment Emailer](./Lesson%2017%20-%20Sending%20Email%20and%20Text%20Messages/random_chore_assignment_emailer.py)
-- [Umbrella Reminder](./Lesson%2017%20-%20Sending%20Email%20and%20Text%20Messages/umbrella_reminder.py)
-- [Auto Unsubscriber](./Lesson%2017%20-%20Sending%20Email%20and%20Text%20Messages/auto_unsubscriber.py)
-- [Controlling Your Computer Through Email](./Lesson%2017%20-%20Sending%20Email%20and%20Text%20Messages/controlling_your_computer_through_email.py)
-
 ---
 
 ## Lesson 18 - Manipulating Images
+
+[Detailed Lesson Plan](./Lesson%2018%20-%20Manipulating%20Images)
+
+### Lesson Summary
+
+This lesson will introduce the concept of images in programming. Students will learn about the importance of images in
+automating image editing tasks and how to use the `Pillow` module to edit images. Students will also learn about the
+importance of images in automating image editing tasks and how to use the `Pillow` module to edit images. Finally,
+students will learn about the importance of images in automating image editing tasks and how to use the `Pillow` module
+to edit images.
 
 ### Learning Objectives
 - **Introduction to Image Processing with Python and Pillow:** Understand the significance of automating image editing
@@ -423,14 +506,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
   processing of images, highlighting the capabilities of Python scripts in comparison to expensive applications like
   Photoshop.
 
-### Weekly Projects
-- [Extending and Fixing the Chapter Project Programs](./Lesson%2018%20-%20Manipulating%20Images/extending_and_fixing_the_chapter_project_programs.py)
-- [Identifying Photo Folders on the Hard Drive](./Lesson%2018%20-%20Manipulating%20Images/identifying_photo_folders_on_the_hard_drive.py)
-- [Custom Seating Cards](./Lesson%2018%20-%20Manipulating%20Images/custom_seating_cards.py)
-
 ---
 
 ## Lesson 19 - Controlling the Keyboard and Mouse with GUI Automation
+
+[Detailed Lesson Plan](./Lesson%2019%20-%20Controlling%20the%20Keyboard%20and%20Mouse%20with%20GUI%20Automation)
+
+### Lesson Summary
+
+This lesson will introduce the concept of GUI automation in programming. Students will learn about the importance of GUI
+automation in automating tasks on a computer and how to use the `PyAutoGUI` module to automate GUI tasks. Students will
+also learn about the importance of GUI automation in automating tasks on a computer and how to use the `PyAutoGUI`
+module to automate GUI tasks. Finally, students will learn about the importance of GUI automation in automating tasks
+on a computer and how to use the `PyAutoGUI` module to automate GUI tasks.
 
 ### Learning Objectives
 - **Understanding GUI Automation with Python and PyAutoGUI:** Recognize the significance of GUI automation in automating
@@ -449,9 +537,3 @@ to the GitHub repo for that week's project, and a list of the learning objective
   automation programs that crash quickly in case of bad instructions, ensuring efficient error handling. Explore the
   potential time-saving benefits of using PyAutoGUI to delegate tedious and repetitive work, allowing users to focus on
   more engaging and creative aspects of their responsibilities.
-
-### Weekly Projects
-- [Looking Busy](./Lesson%2019%20-%20Controlling%20the%20Keyboard%20and%20Mouse%20with%20GUI%20Automation/looking_busy.py)
-- [Using the Clipboard to Read a Text Field](./Lesson%2019%20-%20Controlling%20the%20Keyboard%20and%20Mouse%20with%20GUI%20Automation/using_the_clipboard_to_read_a_text_field.py)
-- [Instant Messenger Bot](./Lesson%2019%20-%20Controlling%20the%20Keyboard%20and%20Mouse%20with%20GUI%20Automation/instant_messenger_bot.py)
-- [Game-Playing Bot Tutorial](./Lesson%2019%20-%20Controlling%20the%20Keyboard%20and%20Mouse%20with%20GUI%20Automation/game_playing_bot_tutorial.py)
