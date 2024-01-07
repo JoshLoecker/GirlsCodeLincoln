@@ -167,6 +167,30 @@ to ensure that user inputs are valid.
 
 ## Lesson 6 - Pattern Matching with Regular Expressions
 
+### Lesson Summary
+
+Regular expressions, also known as regexes, are an extremely powerful tool for matching, searching, and manipulating
+text. At their core, regular expressions allow you to describe patterns of text to search for, rather than having to
+specify exact strings. This enables you to find and work with text in very flexible ways.
+
+The `re` module in Python provides full regex support. To use regexes in your code, you first `import re`. You can then
+call `re.compile()` and pass it a raw string representing the regex pattern you want to match. This returns a Regex
+object. You can then call methods like `search()`, `findall()`, and `sub()` on the Regex object to perform matching and
+substitution operations.
+
+When writing the regex patterns, you use special metacharacters to match types of text. For example, `\d` matches
+digits, `\w` matches word characters, and `\s` matches whitespace. You can use character classes like `[a-zA-Z0-9]` to
+match specific sets of characters. The metacharacters `*` and `+` match repeated occurrences of patterns, while `?`
+makes a pattern optional. Braces `{}` allow you to specify a specific number of matches.
+
+The `re` module also provides options like `re.IGNORECASE` to make matching case-insensitive and `re.VERBOSE` to allow
+writing regexes across multiple lines with comments. Groups and the `|` pipe character provide ways to match different
+possible subpatterns.
+
+Overall, mastering regular expressions in Python enables you to concisely describe text patterns you want to work with
+and perform complex search, match, and replace operations with just a few lines of code. Regexes are invaluable for
+cleaning and parsing text-based data.
+
 ### Learning Objectives
 - **Introduction to Regular Expressions:** Define regular expressions and understand their role in text pattern
   searching. Differentiate between traditional text search methods (e.g., CTRL-F) and the advanced capabilities offered
