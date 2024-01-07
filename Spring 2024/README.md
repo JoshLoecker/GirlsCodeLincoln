@@ -65,6 +65,14 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 03: Lists
 
 ### Learning Objectives
+- **Understand the Basics of Lists:** Define lists in programming as ordered sequences. Recognize the syntax for
+  creating a list and distinguish the "list value" from its internal values.
+- **Explore List Methods:** Define methods in programming and their connection to specific data types. Explore and use
+  common list methods, such as append() and remove().
+- **Compare Sequence Data Types:** Differentiate mutable and immutable sequence data types. Compare lists, tuples, and
+  strings, highlighting their unique characteristics and use cases.
+- **Grasp the Importance of List References:** Explain that variables store references, not list values directly.
+  Introduce the use of copy() and deepcopy() for managing list changes without affecting other variables.
 
 ### Weekly Projects
 - [Comma Code](./Lesson%2003%20-%20Lists/comma_code.py)
