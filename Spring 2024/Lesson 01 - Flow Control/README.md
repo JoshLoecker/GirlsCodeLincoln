@@ -18,6 +18,24 @@ Once Poetry is installed, you can install the project dependencies by running th
 ```shell
 poetry install
 ```
+### Lesson Summary
+
+This lesson will introduce the concept of control flow in programming. Students will learn about Boolean values and
+expressions, comparison operators, Boolean operators, and flow control statements. Students will also learn about the
+importance of flow control in programming and how it can be used to create more complex programs. Finally, students will
+learn about the importance of flow control in game development and how to use it to create a rock/paper/scissors game.
+
+### Learning Objectives
+
+- **Understand Fundamental Flow Control Concepts:** Understand basic concepts of flow control, including Boolean values,
+  comparison operators, and Boolean operators.
+  Be able to write expressions using these concepts and evaluate their truth value.
+- **Exploring Control Flow Statements:** Explain the structure and function
+  of `if`, `else`, `elif`, `while`, `for`, `break`, and `continue` statements for
+  controlling program flow. Use these statements appropriately in code examples.
+- **Implementing Control Flow in Game Development:** Apply control flow concepts to create a rock/paper/scissors game.
+
+### Weekly Projects
 
 #### Weekly Project #1: Explore Boolean Expressions
 
