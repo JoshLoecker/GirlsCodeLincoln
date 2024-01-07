@@ -4,15 +4,15 @@ Written for the Spring 2024 semester by Josh Loecker
 
 # Table of Contents
 
-[Lesson 01](#lesson-01-control-flow)<br>
-[Lesson 02](#lesson-02-functions)<br>
-[Lesson 03](#lesson-03-lists)<br>
-[Lesson 04](#lesson-04-dictionaries-and-structuring-data)<br>
-[Lesson 05](#lesson-05-manipulating-strings)<br>
-[Lesson 06](#lesson-06-pattern-matching-with-regular-expressions)<br>
-[Lesson 07](#lesson-07-input-validation)<br>
-[Lesson 08](#lesson-08-reading-and-writing-files)<br>
-[Lesson 09](#lesson-09-organizing-files)<br>
+[Lesson 1](#lesson-1-control-flow)<br>
+[Lesson 2](#lesson-2-functions)<br>
+[Lesson 3](#lesson-3-lists)<br>
+[Lesson 4](#lesson-4-dictionaries-and-structuring-data)<br>
+[Lesson 5](#lesson-5-manipulating-strings)<br>
+[Lesson 6](#lesson-6-pattern-matching-with-regular-expressions)<br>
+[Lesson 7](#lesson-7-input-validation)<br>
+[Lesson 8](#lesson-8-reading-and-writing-files)<br>
+[Lesson 9](#lesson-9-organizing-files)<br>
 [Lesson 10](#lesson-10-debugging)<br>
 [Lesson 11](#lesson-11-web--scraping)<br>
 [Lesson 12](#lesson-12-working-with-excel-spreadsheets)<br>
@@ -39,7 +39,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 01: Control Flow
+## Lesson 1: Control Flow
 
 [Google Slides Link](https://docs.google.com/presentation/d/107A5EaseG4CJ8u-WYYzv9BwloNFcO5I8ZIZdcKmb5ts/edit?usp=sharing)<br>
 
@@ -61,7 +61,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 02: Functions
+## Lesson 2: Functions
 
 ### Learning Objectives
 
@@ -84,7 +84,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 03: Lists
+## Lesson 3: Lists
 
 ### Learning Objectives
 - **Understand the Basics of Lists:** Define lists in programming as ordered sequences. Recognize the syntax for
@@ -103,7 +103,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 04: Dictionaries and Structuring Data
+## Lesson 4: Dictionaries and Structuring Data
 
 ### Learning Objectives
 
@@ -112,7 +112,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 - [Fantasy Game Inventory](./Lesson%2004%20-%20Dictionaries%20and%20Structuring%20Data/fantasy_game_inventory.py)
 - [List to Dictionary Function for Fantasy Game Inventory](./Lesson%2004%20-%20Dictionaries%20and%20Structuring%20Data/list_to_dictionary_function_for_fantasy_game_inventory.py)
 
-## Lesson 05: Manipulating Strings
+## Lesson 5: Manipulating Strings
 
 ### Learning Objectives
 
@@ -122,7 +122,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 06 - Pattern Matching with Regular Expressions
+## Lesson 6 - Pattern Matching with Regular Expressions
 
 ### Learning Objectives
 
@@ -133,7 +133,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 07 - Input Validation
+## Lesson 7 - Input Validation
 
 ### Learning Objectives
 
@@ -143,7 +143,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 08 - Reading and Writing Files
+## Lesson 8 - Reading and Writing Files
 
 ### Learning Objectives
 
@@ -154,7 +154,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 09 - Organizing Files
+## Lesson 9 - Organizing Files
 
 ### Learning Objectives
 
