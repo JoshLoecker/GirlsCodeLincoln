@@ -4,6 +4,10 @@ print("Welcome to the game of Rock, Paper, Scissors!")
 user_guess = input("Enter a guess (rock, paper, scissors): ")
 computer_guess = random.choice(["rock", "paper", "scissors"])
 
+while user_guess not in ["rock", "paper", "scissors"]:
+    print("Invalid guess. Please try again.")
+    user_guess = input("Enter a guess (rock, paper, scissors): ")
+
 if user_guess == "rock":
     if computer_guess == "rock":
         print("The computer guessed rock. It's a tie!")
