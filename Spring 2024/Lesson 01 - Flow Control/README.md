@@ -5,7 +5,11 @@
 Project dependencies are listed under `poetry.toml`
 
 ### Weekly Project #1: Explore Boolean Expressions
-What do the following expressions evaluate to? After you answer, type (or copy and paste) the expressions into a Python interactive shell to check your answers.
+
+[Source Code](./explore_boolean_expressions.py)
+
+What do the following expressions evaluate to? After you answer, type (or copy and paste) the expressions into a Python
+interactive shell to check your answers.
 
 ```python
 (5 > 4) and (3 == 5)
@@ -22,6 +26,8 @@ not ((5 > 4) or (3 == 5))
 ```
 
 ### Weekly Project #2: Rock/Paper/Scissors
+
+[Source Code](./rock_paper_scissors.py)
 
 - The user will input their choice (rock/paper/scissors).
 - The computer will make a random choice (rock/paper/scissors).
