@@ -57,8 +57,8 @@ to the GitHub repo for that week's project, and a list of the learning objective
   handling errors and making programs more robust by allowing code execution even in the presence of detected errors.
 
 ### Weekly Projects
-- The Collatz Sequence
-- Input Validation
+- [The Collatz Sequence](./Lesson%2002%20-%20Functions/the_collatz_sequence.py)
+- [Input Validation](./Lesson%2002%20-%20Functions/input_validation.py)
 
 ---
 
@@ -67,9 +67,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Comma Code
-- Coin Flip Streaks
-- Character Picture Grid
+- [Comma Code](./Lesson%2003%20-%20Lists/comma_code.py)
+- [Coin Flip Streaks](./Lesson%2003%20-%20Lists/coin_flip_streaks.py)
+- [Character Picture Grid](./Lesson%2003%20-%20Lists/character_picture_grid.py)
 
 ---
 
@@ -78,17 +78,17 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Chess Dictionary Validator
-- Fantasy Game Inventory
-- List to Dictionary Function for Fantasy Game Inventory
+- [Chess Dictionary Validator](./Lesson%2004%20-%20Dictionaries%20and%20Structuring%20Data/chess_dictionary_validator.py)
+- [Fantasy Game Inventory](./Lesson%2004%20-%20Dictionaries%20and%20Structuring%20Data/fantasy_game_inventory.py)
+- [List to Dictionary Function for Fantasy Game Inventory](./Lesson%2004%20-%20Dictionaries%20and%20Structuring%20Data/list_to_dictionary_function_for_fantasy_game_inventory.py)
 
 ## Lesson 05: Manipulating Strings
 
 ### Learning Objectives
 
 ### Weekly Projects
-- Table Printer
-- Zombie Dice Bots
+- [Table Printer](./Lesson%2005%20-%20Manipulating%20Strings/table_printer.py)
+- [Zombie Dice Bots](./Lesson%2005%20-%20Manipulating%20Strings/zombie_dice_bots.py)
 
 ---
 
@@ -97,9 +97,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Date Detection
-- Strong Password Detection
-- Regex Version of the `strip()` Method
+- [Date Detection](./Lesson%2006%20-%20Pattern%20Matching%20with%20Regular%20Expressions/date_detection.py)
+- [Strong Password Detection](./Lesson%2006%20-%20Pattern%20Matching%20with%20Regular%20Expressions/strong_password_detection.py)
+- [Regex Version of the `strip()` Method](./Lesson%2006%20-%20Pattern%20Matching%20with%20Regular%20Expressions/regex_version_of_the_strip_method.py)
 
 ---
 
@@ -108,8 +108,8 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Sandwich Maker
-- Write Your Own Multiplication Quiz
+- [Sandwich Maker](./Lesson%2007%20-%20Input%20Validation/sandwich_maker.py)
+- [Write Your Own Multiplication Quiz](./Lesson%2007%20-%20Input%20Validation/write_your_own_multiplication_quiz.py)
 
 ---
 
@@ -118,9 +118,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Extending the Multi-Clipboard
-- Mad Libs
-- Regex Search
+- [Extending the Multi-Clipboard](./Lesson%2008%20-%20Reading%20and%20Writing%20Files/extending_the_multi_clipboard.py)
+- [Mad Libs](./Lesson%2008%20-%20Reading%20and%20Writing%20Files/mad_libs.py)
+- [Regex Search](./Lesson%2008%20-%20Reading%20and%20Writing%20Files/regex_search.py)
 
 ---
 
@@ -129,9 +129,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Selective Copy
-- Deleting Unneeded Files
-- Filling in the Gaps
+- [Selective Copy](./Lesson%2009%20-%20Organizing%20Files/selective_copy.py)
+- [Deleting Unneeded Files](./Lesson%2009%20-%20Organizing%20Files/deleting_unneeded_files.py)
+- [Filling in the Gaps](./Lesson%2009%20-%20Organizing%20Files/filling_in_the_gaps.py)
 
 ---
 
@@ -140,7 +140,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Debugging Coin Toss
+- [Debugging Coin Toss](./Lesson%2010%20-%20Debugging/debugging_coin_toss.py)
 
 ---
 
@@ -149,10 +149,10 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Command Line Emailer
-- Image Site Downloader
-- 2048
-- Link Verification
+- [Command Line Emailer](./Lesson%2011%20-%20Web%20Scraping/command_line_emailer.py)
+- [Image Site Downloader](./Lesson%2011%20-%20Web%20Scraping/image_site_downloader.py)
+- [2048](./Lesson%2011%20-%20Web%20Scraping/2048.py)
+- [Link Verification](./Lesson%2011%20-%20Web%20Scraping/link_verification.py)
 
 ---
 
@@ -161,11 +161,11 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Multiplication Table Maker
-- Blank Row Inserter
-- Spreadsheet Cell Inverter
-- Text Files to Spreadsheet
-- Spreadsheet to Text Files
+- [Multiplication Table Maker](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/multiplication_table_maker.py)
+- [Blank Row Inserter](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/blank_row_inserter.py)
+- [Spreadsheet Cell Inverter](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/spreadsheet_cell_inverter.py)
+- [Text Files to Spreadsheet](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/text_files_to_spreadsheet.py)
+- [Spreadsheet to Text Files](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/spreadsheet_to_text_files.py)
 
 ---
 
@@ -174,9 +174,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Downloading Google Forms Data
-- Converting Spreadsheets to Other Formats
-- Finding Mistakes in a Spreadsheet
+- [Downloading Google Forms Data](./Lesson%2013%20-%20Working%20with%20Google%20Spreadsheets/downloading_google_forms_data.py)
+- [Converting Spreadsheets to Other Formats](./Lesson%2013%20-%20Working%20with%20Google%20Spreadsheets/converting_spreadsheets_to_other_formats.py)
+- [Finding Mistakes in a Spreadsheet](./Lesson%2013%20-%20Working%20with%20Google%20Spreadsheets/finding_mistakes_in_a_spreadsheet.py)
 
 ---
 
@@ -185,9 +185,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- PDF Paranoia
-- Custom Invitations as Word Documents
-- Brute-Force PDF Password Breaker
+- [PDF Paranoia](./Lesson%2014%20-%20Working%20with%20PDF%20and%20Word%20Documents/pdf_paranoia.py)
+- [Custom Invitations as Word Documents](./Lesson%2014%20-%20Working%20with%20PDF%20and%20Word%20Documents/custom_invitations_as_word_documents.py)
+- [Brute-Force PDF Password Breaker](./Lesson%2014%20-%20Working%20with%20PDF%20and%20Word%20Documents/brute_force_pdf_password_breaker.py)
 
 ---
 
@@ -196,7 +196,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Excel-to-CSV Converter
+- [Excel-to-CSV Converter](./Lesson%2015%20-%20Working%20with%20CSV%20Files%20and%20JSON%20Data/excel_to_csv_converter.py)
 
 ---
 
@@ -205,8 +205,8 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Prettified Stopwatch
-- Scheduled Web Comic Downloader
+- [Prettified Stopwatch](./Lesson%2016%20-%20Keeping%20Time%2C%20Scheduling%20Tasks%2C%20and%20Launching%20Programs/prettified_stopwatch.py)
+- [Scheduled Web Comic Downloader](./Lesson%2016%20-%20Keeping%20Time%2C%20Scheduling%20Tasks%2C%20and%20Launching%20Programs/scheduled_web_comic_downloader.py)
 
 ---
 
@@ -215,10 +215,10 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Random Chore Assignment Emailer
-- Umbrella Reminder
-- Auto Unsubscriber
-- Controlling Your Computer Through Email
+- [Random Chore Assignment Emailer](./Lesson%2017%20-%20Sending%20Email%20and%20Text%20Messages/random_chore_assignment_emailer.py)
+- [Umbrella Reminder](./Lesson%2017%20-%20Sending%20Email%20and%20Text%20Messages/umbrella_reminder.py)
+- [Auto Unsubscriber](./Lesson%2017%20-%20Sending%20Email%20and%20Text%20Messages/auto_unsubscriber.py)
+- [Controlling Your Computer Through Email](./Lesson%2017%20-%20Sending%20Email%20and%20Text%20Messages/controlling_your_computer_through_email.py)
 
 ---
 
@@ -227,9 +227,9 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Extending and Fixing the Chapter Project Programs
-- Identifying Photo Folders on the Hard Drive
-- Custom Seating Cards
+- [Extending and Fixing the Chapter Project Programs](./Lesson%2018%20-%20Manipulating%20Images/extending_and_fixing_the_chapter_project_programs.py)
+- [Identifying Photo Folders on the Hard Drive](./Lesson%2018%20-%20Manipulating%20Images/identifying_photo_folders_on_the_hard_drive.py)
+- [Custom Seating Cards](./Lesson%2018%20-%20Manipulating%20Images/custom_seating_cards.py)
 
 ---
 
@@ -238,7 +238,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ### Learning Objectives
 
 ### Weekly Projects
-- Looking Busy
-- Using the Clipboard to Read a Text Field
-- Instant Messenger Bot
-- Game-Playing Bot Tutorial
+- [Looking Busy](./Lesson%2019%20-%20Controlling%20the%20Keyboard%20and%20Mouse%20with%20GUI%20Automation/looking_busy.py)
+- [Using the Clipboard to Read a Text Field](./Lesson%2019%20-%20Controlling%20the%20Keyboard%20and%20Mouse%20with%20GUI%20Automation/using_the_clipboard_to_read_a_text_field.py)
+- [Instant Messenger Bot](./Lesson%2019%20-%20Controlling%20the%20Keyboard%20and%20Mouse%20with%20GUI%20Automation/instant_messenger_bot.py)
+- [Game-Playing Bot Tutorial](./Lesson%2019%20-%20Controlling%20the%20Keyboard%20and%20Mouse%20with%20GUI%20Automation/game_playing_bot_tutorial.py)
