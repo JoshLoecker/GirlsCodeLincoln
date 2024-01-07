@@ -106,6 +106,18 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 4 - Dictionaries and Structuring Data
 
 ### Learning Objectives
+- **Master the Dictionary Data Type:** Define the dictionary data type and its role in organizing and accessing data.
+  Understand the concept of key-value pairs in dictionaries. Identify the various data types that can serve as keys in
+  dictionaries.
+- **Compare Lists and Dictionaries:** Contrast the differences between lists and dictionaries in terms of structure and
+  functionality. Recognize the advantages of using dictionaries, particularly in mapping one item to another, compared
+  to the sequential nature of lists.
+- **Apply Dictionaries in Data Modeling:** Explore how dictionaries can be effectively combined with lists to create
+  complex data structures. Develop the ability to model real-world objects using dictionaries, enhancing program
+  representation.
+- **Hands-On: Create a Tic-Tac-Toe Data Structure:** Apply knowledge of dictionaries and lists to create a data
+  structure for modeling a tic-tac-toe board. Understand the advantages of using a combination of dictionaries and lists
+  for organizing complex game-related data.
 
 ### Weekly Projects
 - [Chess Dictionary Validator](./Lesson%2004%20-%20Dictionaries%20and%20Structuring%20Data/chess_dictionary_validator.py)
@@ -115,6 +127,16 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 5 - Manipulating Strings
 
 ### Learning Objectives
+- **Explore Advanced String Manipulation:** Learn techniques beyond simple string concatenation, including extracting
+  partial strings, manipulating spacing, and converting cases. Understand how to utilize Python string methods to
+  perform various text-processing tasks.
+- **Implement Clipboard Automation:** Develop the ability to access the clipboard using Python code. Create a simple
+  clipboard program that can store and manage multiple strings of text.
+- **Automate Text Formatting:** Work through programming projects involving the automation of text formatting tasks.
+  Apply string manipulation techniques to streamline the process of handling and formatting pieces of text efficiently.
+- **Understand the Power of Text-Based Programs:** Recognize the effectiveness of text-based programs in manipulating
+  large amounts of data quickly. Explore the advantages of working with text-based programs for tasks that may not
+  involve graphical user interfaces or flashy visuals.
 
 ### Weekly Projects
 - [Table Printer](./Lesson%2005%20-%20Manipulating%20Strings/table_printer.py)
@@ -125,6 +147,17 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 6 - Pattern Matching with Regular Expressions
 
 ### Learning Objectives
+- **Introduction to Regular Expressions:** Define regular expressions and understand their role in text pattern
+  searching. Differentiate between traditional text search methods (e.g., CTRL-F) and the advanced capabilities offered
+  by regular expressions.
+- **Recognizing Text Patterns:** Identify common text patterns in various contexts, such as phone numbers, email
+  addresses, social security numbers, URLs, and hashtags. Understand how regular expressions can be used to describe and
+  search for these patterns efficiently.
+- **Mastering Basic Regular Expression Features:** Learn the basics of matching with regular expressions, including
+  specifying character patterns. Explore the power of regular expressions in simplifying code for finding text patterns.
+- **Advanced Regular Expression Techniques:** Understand advanced features of regular expressions, such as string
+  substitution and creating custom character classes. Apply regular expressions to perform complex text processing tasks
+  efficiently.
 
 ### Weekly Projects
 - [Date Detection](./Lesson%2006%20-%20Pattern%20Matching%20with%20Regular%20Expressions/date_detection.py)
@@ -136,6 +169,15 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 7 - Input Validation
 
 ### Learning Objectives
+- **Understanding the Importance of Input Validation:** Recognize the significance of input validation in preventing
+  nonsensical or incorrect user inputs. Understand how input validation contributes to code robustness, bug prevention,
+  and security.
+- **Implementing Basic Input Validation Code:** Learn the fundamentals of input validation through a basic example using
+  a while loop. Understand the key components of input validation code, such as type conversion, exception handling, and
+  conditional statements.
+- **Exploring Challenges with Manual Input Validation:** Identify potential challenges and drawbacks of manually
+  implementing input validation for every input() call in a program. Understand the limitations and the risk of
+  overlooking certain cases in manual input validation.
 
 ### Weekly Projects
 - [Sandwich Maker](./Lesson%2007%20-%20Input%20Validation/sandwich_maker.py)
@@ -146,6 +188,16 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 8 - Reading and Writing Files
 
 ### Learning Objectives
+- **Understanding File Organization:** Recognize the organizational structure of files into folders or directories.
+  Understand the concept of file paths as descriptors of a file's location.
+- **Exploring the Concept of Current Working Directory:** Understand the significance of the current working directory
+  in file operations. Learn how specifying file paths relative to the current working directory can simplify file
+  manipulation.
+- **Direct Interaction with Text Files:** Learn how to use the open() function to directly interact with the contents of
+  text files. Understand the read() and readlines() methods for reading the entire content or lines from a text file.
+- **Writing and Appending to Text Files:** Explore the capabilities of the open() function in write and append modes for
+  creating new text files or adding to existing ones. Understand how to write and append data to text files
+  programmatically.
 
 ### Weekly Projects
 - [Extending the Multi-Clipboard](./Lesson%2008%20-%20Reading%20and%20Writing%20Files/extending_the_multi_clipboard.py)
@@ -157,6 +209,19 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 9 - Organizing Files
 
 ### Learning Objectives
+- **Automating File Organization:** Understand the benefits of automating file organization tasks in Python. Recognize
+  scenarios where automating file copying, renaming, moving, and compressing can significantly improve efficiency.
+- **Exploring Common File Organization Tasks:** Identify common file organization tasks, such as copying specific file
+  types, renaming files in bulk, and compressing multiple folders into a ZIP file. Understand the potential time savings
+  and accuracy improvements achieved through automation.
+- **Introduction to File Extensions:** Understand the concept of file extensions and their role in identifying file
+  types. Learn how to view file extensions on different operating systems and file browsers.
+- **Best Practices in File Handling Code:** Learn best practices for writing file handling code, including commenting
+  out potentially risky operations and using print() calls for verification. Understand the importance of testing and
+  verifying file handling code before executing potentially irreversible operations.
+- **Preparing for Code Analysis and Debugging:** Acknowledge that writing perfect programs is a rare occurrence and that
+  debugging is a crucial part of the programming process. Anticipate the next chapter's focus on Python modules that aid
+  in code analysis and debugging for improving program correctness.
 
 ### Weekly Projects
 - [Selective Copy](./Lesson%2009%20-%20Organizing%20Files/selective_copy.py)
@@ -168,6 +233,17 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 10 - Debugging
 
 ### Learning Objectives
+- **Understanding the Prevalence of Bugs in Programming:** Recognize that writing code and debugging are integral parts
+  of programming. Understand that bugs are common even among professional programmers and are a natural aspect of
+  coding.
+- **Introduction to Debugging Tools and Techniques:** Learn about various tools and techniques for debugging programs
+  effectively. Understand the importance of early bug detection in the debugging process.
+- **Exploring Logging and Assertions:** Explore the use of logging and assertions as tools to identify and catch bugs
+  early in the program. Understand the concept of assertions as "sanity checks" for necessary conditions and their role
+  in failing fast.
+- **Comparing Assertions, Exceptions, and Logging:** Understand the differences between assertions, exceptions, and
+  logging in the context of bug detection and prevention. Learn when to use each tool based on the nature of the error
+  and the program's recovery possibilities.
 
 ### Weekly Projects
 - [Debugging Coin Toss](./Lesson%2010%20-%20Debugging/debugging_coin_toss.py)
@@ -177,6 +253,17 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 11 - Web  Scraping
 
 ### Learning Objectives
+- **Recognizing the Significance of Web Scraping:** Understand the importance of web scraping in programming, especially
+  when much of computer work involves internet-related tasks. Recognize the value of extending programs to access and
+  process content from the web.
+- **Exploring Essential Modules for Web Scraping:** Learn about key Python modules for web scraping, including
+  webbrowser, requests, bs4 (Beautiful Soup), and selenium. Understand the functionalities provided by each module, such
+  as opening a browser, downloading files and web pages, parsing HTML, and controlling web browsers.
+- **Hands-On Application of Web Scraping Techniques:** Gain practical experience in using web scraping modules for
+  common tasks, such as downloading web pages, parsing HTML content, and controlling web browsers. Explore the requests
+  module for straightforward downloads and the BeautifulSoup module for parsing downloaded pages with basic HTML
+  concepts and selectors. Understand the role of the selenium module in fully automating web-based tasks, including
+  logging in to websites and filling out forms automatically.
 
 ### Weekly Projects
 - [Command Line Emailer](./Lesson%2011%20-%20Web%20Scraping/command_line_emailer.py)
@@ -189,6 +276,16 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 12 - Working with Excel Spreadsheets
 
 ### Learning Objectives
+- **Understanding the Challenges in Data Processing:** Recognize that the difficulty in processing information often
+  lies in formatting data appropriately for programmatic manipulation. Understand the importance of efficient data
+  processing for enhancing program functionality.
+- **Exploring Python's Role in Spreadsheet Handling:** Learn about the openpyxl module and its significance in loading
+  and manipulating spreadsheets within Python. Understand the advantages of using Python for extracting and manipulating
+  data from spreadsheets.
+- **Leveraging Python for Spreadsheet Automation:** Gain practical skills in automating spreadsheet tasks using Python,
+  such as copying and pasting data, making edits based on criteria, and searching for specific information in multiple
+  spreadsheets. Recognize the efficiency gains achieved by using Python to perform repetitive and mindless spreadsheet
+  tasks.
 
 ### Weekly Projects
 - [Multiplication Table Maker](./Lesson%2012%20-%20Working%20with%20Excel%20Spreadsheets/multiplication_table_maker.py)
@@ -202,6 +299,15 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 13 - Working with Google Spreadsheets
 
 ### Learning Objectives
+- **Recognizing the Role of Spreadsheets in Data Organization:** Understand that spreadsheets serve as essential tools
+  for organizing information into two-dimensional data structures and performing calculations with formulas. Recognize
+  the common use of spreadsheets for producing charts and visualizing data.
+- **Integrating Python with Microsoft Excel:** Learn about the openpyxl module and its role in enabling Python programs
+  to read and modify Excel spreadsheet files. Explore practical applications of Python in automating repetitive tasks
+  within Excel, such as copying data, making edits based on criteria, and analyzing large datasets.
+- **Understanding the Power of Python in Spreadsheet Automation:** Recognize the potential of Python in automating
+  mindless and repetitive spreadsheet tasks, leading to increased efficiency. Understand how Python, equipped with the
+  openpyxl module, can handle even the most extensive spreadsheets with ease.
 
 ### Weekly Projects
 - [Downloading Google Forms Data](./Lesson%2013%20-%20Working%20with%20Google%20Spreadsheets/downloading_google_forms_data.py)
@@ -213,6 +319,15 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 14 - Working with PDF and Word Documents
 
 ### Learning Objectives
+- **Exploring Python Modules for PDF and Word Interaction:** Learn about Python modules, PyPDF2, and python-docx,
+  designed to facilitate interaction with PDFs and Word documents, respectively. Understand the importance of using
+  these modules for more than basic file operations, considering the complexity of the file formats.
+- **Utilizing PyPDF2 for PDF Document Manipulation:** Explore the functionality provided by the PyPDF2 module for
+  reading and writing PDF documents in Python. Acknowledge the potential challenges in reading text from PDFs due to the
+  intricate PDF file format and the limitations of PyPDF2.
+- **Understanding the Complexity of PDF and Word Documents:** Recognize that PDF and Word documents are binary files
+  with additional complexity compared to plaintext files. Understand that these files store not only text but also font,
+  color, and layout information, requiring specialized handling in Python.
 
 ### Weekly Projects
 - [PDF Paranoia](./Lesson%2014%20-%20Working%20with%20PDF%20and%20Word%20Documents/pdf_paranoia.py)
@@ -224,6 +339,16 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 15 - Working with CSV Files and JSON Data
 
 ### Learning Objectives
+- **Understanding CSV and JSON as Plaintext File Formats:** Recognize CSV as an acronym for "comma-separated values" and
+  understand that CSV files store simplified spreadsheets as plaintext. Grasp the concept that JSON (JavaScript Object
+  Notation) stores information in JavaScript source code in plaintext files, making it a common format in web
+  applications.
+- **Exploring Python's csv and json Modules:** Learn about Python's csv module, designed for parsing and handling CSV
+  files, and understand its functions. Explore the json module in Python, which simplifies the process of reading and
+  writing to JSON files, and comprehend its usage.
+- **Parsing Data from Common Plaintext Formats:** Understand the significance of CSV and JSON as common plaintext
+  formats for storing data, facilitating easy parsing by programs while remaining human-readable. Acknowledge the role
+  of the csv and json modules in Python in simplifying the handling of data stored in CSV and JSON file formats.
 
 ### Weekly Projects
 - [Excel-to-CSV Converter](./Lesson%2015%20-%20Working%20with%20CSV%20Files%20and%20JSON%20Data/excel_to_csv_converter.py)
@@ -233,6 +358,15 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 16 - Keeping Time, Scheduling Tasks, and Launching Programs
 
 ### Learning Objectives
+- **Scheduling and Automation with Time Modules:** Understand the role of Python's time and datetime modules in
+  scheduling programs to run at specific times or intervals. Learn to utilize time.time() for obtaining epoch timestamps
+  and datetime for performing date arithmetic, formatting, and parsing with date information.
+- **Automating Program Execution:** Explore the time.sleep() function and its role in adding pauses to a program,
+  especially when scheduling tasks. Discover methods to schedule programs for automatic execution, leveraging the
+  scheduler provided by the operating system.
+- **Multithreading and Concurrent Execution:** Learn about the threading module and its use in creating multiple threads
+  for concurrent execution of tasks, such as downloading multiple files simultaneously. Understand the importance of
+  ensuring threads read and write only local variables to avoid potential concurrency issues.
 
 ### Weekly Projects
 - [Prettified Stopwatch](./Lesson%2016%20-%20Keeping%20Time%2C%20Scheduling%20Tasks%2C%20and%20Launching%20Programs/prettified_stopwatch.py)
@@ -243,6 +377,23 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 17 - Sending Email and Text Messages
 
 ### Learning Objectives
+- **Email Automation Proficiency:** Gain a comprehensive understanding of the EZGmail module for sending and reading
+  emails from Gmail accounts using Python. Learn to utilize Python's smtplib, imapclient, and pyzmail modules for
+  interacting with standard SMTP and IMAP email protocols. Develop the skills to automate email-related tasks, such as
+  sending personalized emails based on data from spreadsheets. Explore techniques for handling security and spam
+  precautions when accessing email services, especially with a focus on using the EZGmail module for Gmail API
+  integration.
+- **SMS Notification Implementation:** Acquire the knowledge to integrate SMS notification features into Python programs
+  using services like Twilio. Understand the setup process for sending text messages from programs, including the
+  necessary modules and initial configurations. Explore scenarios where SMS notifications are beneficial, such as
+  receiving program status updates while away from the computer. Develop proficiency in writing code to trigger SMS
+  notifications based on specific conditions, enhancing the overall functionality and user experience of Python
+  programs.
+- **Cross-Program Communication via Email:** Learn how Python programs can communicate directly with each other through
+  email using SMTP and IMAP protocols. Understand the differences between SMTP and IMAP protocols, and their respective
+  roles in sending and retrieving emails. Explore the potential for cross-computer communication by writing programs
+  that exchange information via email. Develop skills in searching for, downloading, and parsing emails to extract
+  relevant information, expanding the capabilities of Python programs beyond individual systems.
 
 ### Weekly Projects
 - [Random Chore Assignment Emailer](./Lesson%2017%20-%20Sending%20Email%20and%20Text%20Messages/random_chore_assignment_emailer.py)
@@ -255,6 +406,22 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 18 - Manipulating Images
 
 ### Learning Objectives
+- **Introduction to Image Processing with Python and Pillow:** Understand the significance of automating image editing
+  tasks for efficiency. Learn about the Pillow module, a third-party Python library, and its role in interacting with
+  digital image files. Gain knowledge of the functions provided by Pillow for tasks such as cropping, resizing, and
+  editing the content of images. Acquire the skills to install the Pillow module using pip and understand the versioning
+  considerations.
+- **Basic Concepts of Image Representation and Manipulation:** Comprehend the fundamental concepts of digital images,
+  including pixels, RGBA values, and x- and y-coordinates. Explore common image formats, such as JPEG and PNG, and
+  understand how the pillow module can handle these formats. Learn about the Image object in Pillow, including how it
+  stores dimensions and supports methods for image manipulations. Gain proficiency in using methods like crop(), copy(),
+  paste(), resize(), rotate(), and transpose() for common image operations.
+- **Advanced Image Editing and Drawing with Pillow:** Explore advanced image editing capabilities provided by Pillow,
+  including drawing shapes like points, lines, rectangles, ellipses, and polygons. Understand how to draw text onto an
+  image with customizable typeface and font size using Pillow's ImageDraw methods. Learn the process of saving edited
+  images using the save() method of the Image object. Recognize the cost-effective alternative Python offers for batch
+  processing of images, highlighting the capabilities of Python scripts in comparison to expensive applications like
+  Photoshop.
 
 ### Weekly Projects
 - [Extending and Fixing the Chapter Project Programs](./Lesson%2018%20-%20Manipulating%20Images/extending_and_fixing_the_chapter_project_programs.py)
@@ -266,6 +433,22 @@ to the GitHub repo for that week's project, and a list of the learning objective
 ## Lesson 19 - Controlling the Keyboard and Mouse with GUI Automation
 
 ### Learning Objectives
+- **Understanding GUI Automation with Python and PyAutoGUI:** Recognize the significance of GUI automation in automating
+  tasks on a computer. Understand the concept of graphical user interface (GUI) automation and its role in controlling
+  keyboard and mouse actions programmatically. Learn about PyAutoGUI as a Python module for GUI automation and its
+  capabilities in simulating mouse movements, clicks, keyboard inputs, and more. Explore the advantages of GUI
+  automation, especially for tasks involving repetitive clicking or form filling.
+- **Exploring PyAutoGUI Functions and Features:** Gain proficiency in using PyAutoGUI functions to move the mouse
+  cursor, simulate mouse clicks, and execute keyboard inputs. Understand the capabilities of PyAutoGUI in checking
+  screen colors and obtaining information about the screen contents. Learn how PyAutoGUI can analyze a screenshot to
+  determine coordinates for specific areas on the screen. Explore the limitations and considerations when writing GUI
+  automation programs, with a focus on preventing errors and ensuring robustness.
+- **Creating Efficient and Repetitive Task Automation with PyAutoGUI:** Develop practical skills in combining PyAutoGUI
+  features to automate repetitive tasks on a computer. Understand the hypnotic and satisfying aspects of watching the
+  mouse cursor move autonomously and text appear on the screen during automation. Learn best practices for writing GUI
+  automation programs that crash quickly in case of bad instructions, ensuring efficient error handling. Explore the
+  potential time-saving benefits of using PyAutoGUI to delegate tedious and repetitive work, allowing users to focus on
+  more engaging and creative aspects of their responsibilities.
 
 ### Weekly Projects
 - [Looking Busy](./Lesson%2019%20-%20Controlling%20the%20Keyboard%20and%20Mouse%20with%20GUI%20Automation/looking_busy.py)
