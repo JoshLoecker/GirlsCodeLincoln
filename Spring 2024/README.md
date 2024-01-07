@@ -92,7 +92,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 05: Pattern Matching with Regular Expressions
+## Lesson 06 - Pattern Matching with Regular Expressions
 
 ### Learning Objectives
 
@@ -103,7 +103,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 06: Input Validation
+## Lesson 07 - Input Validation
 
 ### Learning Objectives
 
@@ -113,7 +113,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 07: Reading and Writing Files
+## Lesson 08 - Reading and Writing Files
 
 ### Learning Objectives
 
@@ -124,7 +124,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 08: Organizing Files
+## Lesson 09 - Organizing Files
 
 ### Learning Objectives
 
@@ -135,7 +135,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 09: Debugging
+## Lesson 10 - Debugging
 
 ### Learning Objectives
 
@@ -144,7 +144,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 10: Web Scraping
+## Lesson 11 - Web  Scraping
 
 ### Learning Objectives
 
@@ -156,7 +156,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 11: Working with Excel Spreadsheets
+## Lesson 12 - Working with Excel Spreadsheets
 
 ### Learning Objectives
 
@@ -169,7 +169,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 12: Working with Google Sheets
+## Lesson 13 - Working with Google Spreadsheets
 
 ### Learning Objectives
 
@@ -180,7 +180,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 13: Working with Pdf and Word Documents
+## Lesson 14 - Working with PDF and Word Documents
 
 ### Learning Objectives
 
@@ -191,7 +191,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 14: Working with CSV Files and JSON Data
+## Lesson 15 - Working with CSV Files and JSON Data
 
 ### Learning Objectives
 
@@ -200,7 +200,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 15: Keeping Time, Scheduling Tasks, and Launching Programs
+## Lesson 16 - Keeping Time, Scheduling Tasks, and Launching Programs
 
 ### Learning Objectives
 
@@ -210,7 +210,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 16: Sending Email and Text Messages
+## Lesson 17 - Sending Email and Text Messages
 
 ### Learning Objectives
 
@@ -222,7 +222,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 17: Manipulating Images
+## Lesson 18 - Manipulating Images
 
 ### Learning Objectives
 
@@ -233,7 +233,7 @@ to the GitHub repo for that week's project, and a list of the learning objective
 
 ---
 
-## Lesson 18: Controlling The Keyboard and Mouse with GUI Automation
+## Lesson 19 - Controlling the Keyboard and Mouse with GUI Automation
 
 ### Learning Objectives
 
