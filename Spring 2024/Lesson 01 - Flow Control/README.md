@@ -58,11 +58,22 @@ not ((5 > 4) or (3 == 5))
 (not False) or (not True)
 ```
 
-#### Weekly Project #2: Rock/Paper/Scissors
+#### Weekly Project #2: Number Guessing Game
+
+[Soruce Code](./number_guessing_game.py)
+
+- The computer will think of a random number between 1 and 10.
+- The user will input their guess
+- If the user's guess is too low, the computer will tell them that their guess is too low.
+- Otherwise if the user's guess is too high, the computer will tell them that their guess is too high.
+- If the user guesses the number, the computer will congratulate them.
+- The computer will print the number of guesses it took the user to guess the number.
+
+#### Weekly Project #3: Rock/Paper/Scissors
 
 [Source Code](./rock_paper_scissors.py)
 
 - The user will input their choice (rock/paper/scissors).
 - The computer will make a random choice (rock/paper/scissors).
-- The programmer will test for each possible outcome.
+- The programmer will print who won (user, computer, or tie)
 
