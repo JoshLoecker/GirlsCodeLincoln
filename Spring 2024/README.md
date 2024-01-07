@@ -4,25 +4,25 @@ Written for the Spring 2024 semester by Josh Loecker
 
 # Table of Contents
 
-[Lesson 1](#lesson-1-control-flow)<br>
-[Lesson 2](#lesson-2-functions)<br>
-[Lesson 3](#lesson-3-lists)<br>
-[Lesson 4](#lesson-4-dictionaries-and-structuring-data)<br>
-[Lesson 5](#lesson-5-manipulating-strings)<br>
-[Lesson 6](#lesson-6-pattern-matching-with-regular-expressions)<br>
-[Lesson 7](#lesson-7-input-validation)<br>
-[Lesson 8](#lesson-8-reading-and-writing-files)<br>
-[Lesson 9](#lesson-9-organizing-files)<br>
-[Lesson 10](#lesson-10-debugging)<br>
-[Lesson 11](#lesson-11-web--scraping)<br>
-[Lesson 12](#lesson-12-working-with-excel-spreadsheets)<br>
-[Lesson 13](#lesson-13-working-with-google-spreadsheets)<br>
-[Lesson 14](#lesson-14-working-with-pdf-and-word-documents)<br>
-[Lesson 15](#lesson-15-working-with-csv-files-and-json-data)<br>
-[Lesson 16](#lesson-16-keeping-time-scheduling-tasks-and-launching-programs)<br>
-[Lesson 17](#lesson-17-sending-email-and-text-messages)<br>
-[Lesson 18](#lesson-18-manipulating-images)<br>
-[Lesson 19](#lesson-19-controlling-the-keyboard-and-mouse-with-gui-automation)<br>
+[Lesson 1: Control Flow](#lesson-1-control-flow)<br>
+[Lesson 2: Functions](#lesson-2-functions)<br>
+[Lesson 3: Lists](#lesson-3-lists)<br>
+[Lesson 4: Dictionaries and Structuring Data](#lesson-4-dictionaries-and-structuring-data)<br>
+[Lesson 5: Manipulating Strings](#lesson-5-manipulating-strings)<br>
+[Lesson 6 - Pattern Matching with Regular Expressions](#lesson-6-pattern-matching-with-regular-expressions)<br>
+[Lesson 7 - Input Validation](#lesson-7-input-validation)<br>
+[Lesson 8 - Reading and Writing Files](#lesson-8-reading-and-writing-files)<br>
+[Lesson 9 - Organizing Files](#lesson-9-organizing-files)<br>
+[Lesson 10 - Debugging](#lesson-10-debugging)<br>
+[Lesson 11 - Web  Scraping](#lesson-11-web--scraping)<br>
+[Lesson 12 - Working with Excel Spreadsheets](#lesson-12-working-with-excel-spreadsheets)<br>
+[Lesson 13 - Working with Google Spreadsheets](#lesson-13-working-with-google-spreadsheets)<br>
+[Lesson 14 - Working with PDF and Word Documents](#lesson-14-working-with-pdf-and-word-documents)<br>
+[Lesson 15 - Working with CSV Files and JSON Data](#lesson-15-working-with-csv-files-and-json-data)<br>
+[Lesson 16 - Keeping Time, Scheduling Tasks, and Launching Programs](#lesson-16-keeping-time-scheduling-tasks-and-launching-programs)<br>
+[Lesson 17 - Sending Email and Text Messages](#lesson-17-sending-email-and-text-messages)<br>
+[Lesson 18 - Manipulating Images](#lesson-18-manipulating-images)<br>
+[Lesson 19 - Controlling the Keyboard and Mouse with GUI Automation](#lesson-19-controlling-the-keyboard-and-mouse-with-gui-automation)<br>
 
 # Objective
 
