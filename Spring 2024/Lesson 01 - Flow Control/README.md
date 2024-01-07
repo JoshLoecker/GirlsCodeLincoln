@@ -2,9 +2,24 @@
 
 [Google Slides Link](https://docs.google.com/presentation/d/107A5EaseG4CJ8u-WYYzv9BwloNFcO5I8ZIZdcKmb5ts/edit?usp=sharing)
 
-Project dependencies are listed under `poetry.toml`
+## Getting Started
 
-### Weekly Project #1: Explore Boolean Expressions
+### Poetry
+
+This project uses [Poetry](https://python-poetry.org/) for dependency management. To install Poetry, run the following
+command:
+
+```shell
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+```
+
+Once Poetry is installed, you can install the project dependencies by running the following command:
+
+```shell
+poetry install
+```
+
+#### Weekly Project #1: Explore Boolean Expressions
 
 [Source Code](./explore_boolean_expressions.py)
 
@@ -25,7 +40,7 @@ not ((5 > 4) or (3 == 5))
 (not False) or (not True)
 ```
 
-### Weekly Project #2: Rock/Paper/Scissors
+#### Weekly Project #2: Rock/Paper/Scissors
 
 [Source Code](./rock_paper_scissors.py)
 
