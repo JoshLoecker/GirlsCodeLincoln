@@ -34,8 +34,8 @@ to the GitHub repo for that week's project, and a list of the learning objective
 - **Implementing Control Flow in Game Development:** Apply control flow concepts to create a rock/paper/scissors game.
 
 ### Weekly Projects
-- [Explore Boolean Expressions](./Lesson%2001%20-%20Control%20Flow/explore_boolean_expressions.py)
-- [Rock/Paper/Scissors](./Lesson%2001%20-%20Control%20Flow/rock_paper_scissors.py)
+- [Explore Boolean Expressions](./Lesson%2001%20-%20Flow%20Control/explore_boolean_expressions.py)
+- [Rock/Paper/Scissors](./Lesson%2001%20-%20Flow%20Control/rock_paper_scissors.py)
 
 ---
 
