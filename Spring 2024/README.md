@@ -2,6 +2,10 @@
 
 Written for the Spring 2024 semester by Josh Loecker
 
+# Table of Contents
+
+[Lesson 01](#lesson-01-control-flow)<br>
+
 # Objective
 
 [Semester's Google Drive Folder](https://drive.google.com/drive/folders/1cDAKYNv1yJ8sKbn1HnCjVv3fdUEZa4JP?usp=sharing)
