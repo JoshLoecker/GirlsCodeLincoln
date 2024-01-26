@@ -1,15 +1,3 @@
-"""
-Build a password generator that creates strong passwords with a specified length
-Allow users to customize the password with options like including numbers, special characters, etc.
-A strong password is a series of random letters, numbers, and symbols, like this:
-rLBA!+-hEb?chetEb9ih
-C4OpHoMa!lNeBIZ!pL@1
-q-x?z8-eJo!o-1to829t
-
-
-
-"""
-
 import random
 
 

@@ -18,9 +18,8 @@ def join_list(input_list):
     return output_string
 
 
-if __name__ == '__main__':
-    print(join_list([]))
-    print(join_list(['apples']))
-    print(join_list(['apples', 'bananas']))
-    print(join_list(['apples', 'bananas', 'tofu']))
-    print(join_list(['apples', 'bananas', 'tofu', 'cats']))
+print(join_list([]))
+print(join_list(['apples']))
+print(join_list(['apples', 'bananas']))
+print(join_list(['apples', 'bananas', 'tofu']))
+print(join_list(['apples', 'bananas', 'tofu', 'cats']))
