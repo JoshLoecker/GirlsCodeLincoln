@@ -1,3 +1,5 @@
+# The following is pseudocode and is not meant to be run as a program
+
 grid = [['.', '.', '.', '.', '.', '.'],
         ['.', 'O', 'O', '.', '.', '.'],
         ['O', 'O', 'O', 'O', '.', '.'],
@@ -8,7 +10,8 @@ grid = [['.', '.', '.', '.', '.', '.'],
         ['.', 'O', 'O', '.', '.', '.'],
         ['.', '.', '.', '.', '.', '.']]
 
-for i in range(len(grid[0])):
-    for j in range(len(grid)):
-        print(grid[j][i], end='')
-    print()
+
+for each number in the range of "range(len(grid[0]))":
+    for each number in the range of "range(len(grid))":
+        print the value of grid[j][i], end=''
+    print a newline

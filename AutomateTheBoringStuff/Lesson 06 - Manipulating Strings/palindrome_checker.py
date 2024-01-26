@@ -1,3 +1,5 @@
+# The following is pseudocode and is not meant to be run
+
 def advanced_is_palindrome(word):
     word = word.replace(' ', '')
     word = word.lower()
@@ -7,21 +9,20 @@ def advanced_is_palindrome(word):
         return False
 
 
-def is_palindrome(word):
-    word = word.replace(" ", "")
-    word = word.lower()
-    
-    word_length = len(word) - 1  # Subtract 1 because python is 0 indexed
-    for i in range(len(word)):
-        if word[i] == word[word_length - i]:
-            continue
-        else:
-            return False
-    return True
+Create a function called 'is_palindrome' that accepts an argument called 'word'
+    Remove all spaces from the word
+    Convert the word to lowercase
+    Create a variable called 'word_length' and set it to the length of the word minus 1
+    Loop through the word
+        If the letter at the current index is equal to the letter at the index of 'word_length' minus the current index
+            Continue
+        Else
+            Return False
+    Return True
 
 
-print(f"Racecar: {is_palindrome('Racecar')}")
-print(f"Taco Cat: {is_palindrome('Taco Cat')}")
-print(f"My Gym: {is_palindrome('My Gym')}")
-print(f"Top Spot: {is_palindrome('Top Spot')}")
-print(f"This will fail: {is_palindrome('This will fail')}")
+# Use the following code to test if your function works
+print("Racecar: " + str(is_palindrome("Racecar")))
+print("Taco Cat: " + str(is_palindrome("Taco Cat")))
+print("Hello World!: " + str(is_palindrome("Hello World!")))
+print("This will fail: " + str(is_palindrome("This will fail")))

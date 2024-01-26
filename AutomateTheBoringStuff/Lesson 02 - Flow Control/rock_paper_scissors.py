@@ -1,3 +1,5 @@
+# The following input is pseudo code and is not meant to be run as a Python script.
+
 import random
 
 print("Welcome to the game of Rock, Paper, Scissors!")
@@ -6,28 +8,30 @@ computer_guess = random.choice(["rock", "paper", "scissors"])
 
 while user_guess not in ["rock", "paper", "scissors"]:
     print("Invalid guess. Please try again.")
-    user_guess = input("Enter a guess (rock, paper, scissors): ")
+    
+    Get user input again, the previous input was not correct
 
-if user_guess == "rock":
-    if computer_guess == "rock":
-        print("The computer guessed rock. It's a tie!")
-    elif computer_guess == "paper":
-        print("The computer guessed paper. You lose!")
-    elif computer_guess == "scissors":
-        print("The computer guessed scissors. You win!")
+Test if the user's input was rock'
+    Test if the computer's guess was rock'
+        Print a tie message
+    Test if the computer's guess was paper'
+        Print a lose message
+    Test if the computer's guess was scissors'
+        Print a win message
 
-elif user_guess == "paper":
-    if computer_guess == "rock":
-        print("The computer guessed rock. You win!")
-    elif computer_guess == "paper":
-        print("The computer guessed paper. It's a tie!")
-    elif computer_guess == "scissors":
-        print("The computer guessed scissors. You lose!")
 
-elif user_guess == "scissors":
-    if computer_guess == "rock":
-        print("The computer guessed rock. You lose!")
-    elif computer_guess == "paper":
-        print("The computer guessed paper. You win!")
-    elif computer_guess == "scissors":
-        print("The computer guessed scissors. It's a tie!")
+Test if the user's input was paper'
+    Test if the computer's guess was rock'
+        Print a win message
+    Test if the computer's guess was paper'
+        Print a tie message
+    Test if the computer's guess was scissors'
+        Print a lose message
+
+Test if the user's input was scissors'
+    Test if the computer's guess was rock'
+        Print a lose message
+    Test if the computer's guess was paper'
+        Print a win message
+    Test if the computer's guess was scissors'
+        Print a tie message

@@ -1,39 +1,21 @@
-"""
-Write a function that uses regular expressions to make sure the password string it is passed is strong.
-
-A strong password is defined as one that is at least eight characters long,
-    contains both uppercase and lowercase characters,
-    and has at least one digit.
-    
-You may need to test the string against multiple regex patterns to validate its strength.
-"""
-
+# The following is pseudocode and not meant to be run
 import re
 
+Create a new function called 'strong_password_detection' that accepts an argument called 'password'
+    Check if the length of the password is less than 8
+        If so, return False
+    Create a regex that checks for uppercase letters
+        If the regex search returns None, return False
 
-def strong_password_detection(password):
-    # Check password length
-    if len(password) < 8:
-        return False
-    
-    # Check for uppercase
-    uppercase_regex = re.compile(r'[A-Z]+')
-    if uppercase_regex.search(password) is None:
-        return False
-    
-    # Check for lowercase
-    lowercase_regex = re.compile(r'[a-z]+')
-    if lowercase_regex.search(password) is None:
-        return False
-    
-    # Check for digit
-    digit_regex = re.compile(r'\d+')
-    if digit_regex.search(password) is None:
-        return False
-    
-    return True
+    Create a regex that checks for lowercase letters
+        If the regex search returns None, return False
 
+    Create a regex that checks for digits
+        If the regex search returns None, return False
 
+    Return True because the password is strong
+
+Use the following test cases to test your function:
 print(strong_password_detection('12345678'))
 print(strong_password_detection('12345678a'))
 print(strong_password_detection('12345678A'))

@@ -2,51 +2,51 @@
 Have the computer create a random word and try to guess the word
 If a letter is guessed correctly, reveal all locations that letter exists
 """
-
+# The following is pseudocode that is not meant to be run
 import random
 
+Create a function called get_valid_guess that accepts an argument called 'guessed_letters'
+    Create a new variable called 'valid_guess' and set it to False
+    Create a new variable called 'guess' and set it to the user's input
 
-def get_valid_guess(guessed_letters):
-    valied_guess = False
-    guess = input("Guess a letter: ")
-    while not valied_guess:
-        if guess.lower() in guessed_letters:
-            print("You already guessed that letter")
-            guess = input("Guess a letter: ")
-        elif len(guess) != 1:
-            print("Please enter a single letter")
-            guess = input("Guess a letter: ")
-        elif not guess.isalpha():
-            print("Please enter a letter")
-            guess = input("Guess a letter: ")
-        else:
-            valied_guess = True
-            guess = guess.lower()
-    guessed_letters.append(guess)
-    return guessed_letters
-
+    While valid_guess is False
+        Test if 'guess.lower()' is in 'guessed_letters', and if it is, then
+            Print "You already guessed that letter"
+            Set 'guess' to the user's input
+        Test if the length of 'guess' is not equal to 1, and if it is not, then
+            Print "Please enter a single letter"
+            Set 'guess' to the user's input
+        Test if 'guess' is not a letter, and if it is not, then
+            Print "Please enter a letter"
+            Set 'guess' to the user's input
+        Otherwise
+            Set valid_guess to True
+            Set 'guess' to 'guess.lower()'
+    Append 'guess' to 'guessed_letters'
+    Return 'guessed_letters'
+    
 
 # Create a list of words
 words = ["humanity", "just", "machinery", "hypothesize", "see", "slime", "dark", "listen", "paint", "cat",
          "anticipation", "position", "drama", "defend", "explode", "sentence", "rest", "reservoir", "refuse",
          "nightmare"]
 
-random_word = random.choice(words)
-revealed_letters = "_" * len(random_word)
-guessed_letters = []
-continue_game = True
-print(random_word)
-while continue_game:
-    guessed_letters = get_valid_guess(guessed_letters)
-    guess = guessed_letters[-1]
-    if guess in random_word:
-        print("Correct!")
-        for i in range(len(random_word)):
-            if random_word[i] == guess:
-                revealed_letters = revealed_letters[:i] + random_word[i] + revealed_letters[i + 1:]
-                print(revealed_letters, end="")
-            else:
-                print("_", end="")
-        print()
-    else:
-        print("Incorrect!")
+Use the 'random.choice(words)' code to get a random word from our list
+Create a new variable called 'revealed_letters' and set it to "_" * len(random_word)
+Create a new variable called 'guessed_letters' and set it to an empty list
+Create a new variable called 'continue_game' and set it to True
+while continue_game is True
+    Set 'guessed_letters' to the result of calling 'get_valid_guess' with 'guessed_letters' as the argument
+    Set 'guess' to the last item in 'guessed_letters'
+    If 'guess' is in 'random_word', then
+        Print "Correct!"
+        For each index in the range of the length of 'random_word'
+            If the letter at index 'i' in 'random_word' is equal to 'guess', then
+        
+                Set 'revealed_letters' to 'revealed_letters' up to index 'i' + 'random_word[i]' + 'revealed_letters' from index 'i' + 1 to the end
+                Print 'revealed_letters' without a newline
+            Otherwise
+                Print "_", without a newline
+        Print a newline
+    Otherwise
+        Print "Incorrect!"

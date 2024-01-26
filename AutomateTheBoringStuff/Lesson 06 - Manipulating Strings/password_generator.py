@@ -1,40 +1,25 @@
+# The following is pseudocode and is not meant to be run.
 import random
 
-
-def password_generator(length, use_numbers, use_special_characters):
-    password = ""
-    for i in range(length):
-        if use_numbers and use_special_characters:
-            password += random.choice("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()")
-        elif use_numbers:
-            password += random.choice("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890")
-        elif use_special_characters:
-            password += random.choice("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()")
-        else:
-            password += random.choice("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")
+Create a function called 'password_generator' that takes three parameters: length, use_numbers, use_special_characters
+    Create a variable called password and set it to an empty string
+    Create a for loop that loops 'length' times
+        If use_numbers and use_special_characters are both true
+            Add a random character from the string "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()" to the password variable
+        Else if use_numbers is true
+            Add a random character from the string "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890" to the password variable
+        Else if use_special_characters is true
+            Add a random character from the string "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()" to the password variable
+        Else
+            Add a random character from the string "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" to the password variable
+    
+    Print the following phrase
     print("Your password is: " + password)
 
 
-use_numbers = input("Do you want to use numbers? (y/n) ")
-while use_numbers.lower() != "y" or use_numbers.lower() != "n":
-    use_numbers = input("Do you want to use numbers? (y/n) ")
-use_numbers = use_numbers.lower()
-if use_numbers == "y":
-    use_numbers = True
-else:
-    use_numbers = False
-
-use_special_characters = input("Do you want to use special characters? (y/n) ")
-while use_special_characters.lower() != "y" or use_special_characters.lower() != "n":
-    use_special_characters = input("Do you want to use special characters? (y/n) ")
-use_special_characters = use_special_characters.lower()
-if use_special_characters == "y":
-    use_special_characters = True
-else:
-    use_special_characters = False
-
+Ask the user if they want to use numbers
+Ask the user if they want to use special characters
+Ask the user how long the password should be
 length = input("How long do you want your password to be? ")
-while not length.isdigit():
-    length = input("How long do you want your password to be? ")
 
-password_generator(length, use_numbers, use_special_characters)
+Call the 'password_generator' function and pass in the length, use_numbers, and use_special_characters variables

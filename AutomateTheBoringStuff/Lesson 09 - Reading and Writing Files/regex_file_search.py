@@ -1,34 +1,22 @@
-"""
-Write a program that opens all .txt files in a folder and searches
-    for any line that matches a user-supplied regular expression.
-
-The results should be printed to the screen.
-"""
+# The following is pseudocode and is not meant to be run
 
 import os
 import re
 
-# Get the folder path from the user
-folder_path = input("Enter the folder path: ")
+Create a new variable called 'folder_path' that accepts a folder path from the user
 
-# Get the regex from the user
-regex = input("Enter the regex: ")
+Create a new variable called 'regex' that asks the user for a regex
 
 # Compile the regex
 regex = re.compile(regex)
 
 # Loop through the files in the folder
-for file in os.listdir(folder_path):
-    # Check if the file is a .txt file
-    if file.endswith(".txt"):
-        # Open the file
-        file_path = os.path.join(folder_path, file)
-        file_obj = open(file_path, "r")
-        # Loop through the file
-        for line in file_obj.readlines():
-            # Check if the line matches the regex
-            if regex.search(line):
-                # Print the line
-                print(line)
-        # Close the file
-        file_obj.close()
+for each file in 'os.listdir(folder_path)':
+    Check if the file '.endswith(".txt")', and if so:
+        Create the file path: 'os.path.join(folder_path, file)'
+        Open the file
+        for each line in the file:
+            Check if the line matches the regex
+            If it does, print the line
+            
+        Close the file
